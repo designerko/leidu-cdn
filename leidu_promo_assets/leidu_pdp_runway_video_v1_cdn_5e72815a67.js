@@ -534,7 +534,9 @@
   }
 
   function readProjectedTodayMap() {
-    var stockSection = document.querySelector('.xans-product-detail .leidu-today-stock[data-leidu-today-version="1"]');
+    var stockSection = document.querySelector('.xans-product-detail .leidu-today-stock[data-leidu-today-version="1"]')
+      || document.querySelector('#prdDetail .leidu-today-stock[data-leidu-today-version="1"]')
+      || document.querySelector('.leidu-today-stock[data-leidu-today-version="1"]');
     if (!stockSection) return null;
     var map = new Map();
     var rows = stockSection.querySelectorAll('[data-variant-code]');
