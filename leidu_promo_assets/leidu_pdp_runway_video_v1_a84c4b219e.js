@@ -15,7 +15,7 @@
   if (window.__LEIDU_PDP_RUNWAY_V1_LOADED__) return;
   window.__LEIDU_PDP_RUNWAY_V1_LOADED__ = true;
 
-  var MANIFEST_BASE_URL = 'https://designerko.github.io/leidu-cdn/leidu_hero_runway/leidu_hero_manifest.json';
+  var MANIFEST_BASE_URL = 'https://res.cloudinary.com/dfzukpair/raw/upload/leidu_hero_runway/leidu_hero_manifest.json';
   var WRAP_ID = 'leidu-pdp-runway-fit-wrap';
   var CARD_ID = 'leidu-pdp-runway-fit';
   var STYLE_ID = 'leidu-pdp-runway-fit-style';
@@ -511,7 +511,201 @@
     }, 60);
   }
 
+  var TODAY_STYLE_ID = 'leidu-two-axis-today-style';
+
+  function decodeOptionUnicode(value) {
+    return String(value || '').replace(/\\u([0-9a-f]{4})/gi, function (_, code) {
+      return String.fromCharCode(parseInt(code, 16));
+    });
+  }
+
+  function injectTwoAxisTodayStyle() {
+    if (document.getElementById(TODAY_STYLE_ID)) return;
+    var st = document.createElement('style');
+    st.id = TODAY_STYLE_ID;
+    st.textContent = [
+      'body #contents .xans-product-detail .infoArea .leidu-option-picker .leidu-today-badge.is-partial {',
+      '  background: #edeaff !important;',
+      '  color: #4f4be6 !important;',
+      '  border: 1px solid #c9c4ff !important;',
+      '}'
+    ].join('\n');
+    (document.head || document.documentElement).appendChild(st);
+  }
+
+  function readProjectedTodayMap() {
+    var stockSection = document.querySelector('.xans-product-detail .leidu-today-stock[data-leidu-today-version="1"]');
+    if (!stockSection) return null;
+    var map = new Map();
+    var rows = stockSection.querySelectorAll('[data-variant-code]');
+    for (var i = 0; i < rows.length; i++) {
+      var row = rows[i];
+      var code = row.dataset ? row.dataset.variantCode : row.getAttribute('data-variant-code');
+      if (code) {
+        var readyStock = Number(row.dataset ? row.dataset.readyStock : row.getAttribute('data-ready-stock'));
+        var isToday = (row.dataset ? row.dataset.today : row.getAttribute('data-today')) === 'true';
+        map.set(code, isToday && readyStock > 0);
+      }
+    }
+    return map;
+  }
+
+  function applyTodayBadgeState(button, state) {
+    if (!button) return;
+    var existing = button.querySelector('.leidu-today-badge');
+    if (state !== 'true' && state !== 'partial') {
+      if (existing && existing.parentNode) existing.parentNode.removeChild(existing);
+      return;
+    }
+    var wantText = state === 'partial' ? '일부 오늘출발' : '오늘출발';
+    var wantPartial = state === 'partial';
+    if (existing && existing.textContent === wantText && existing.classList.contains('is-partial') === wantPartial) {
+      return;
+    }
+    var badge = existing || document.createElement('span');
+    badge.className = wantPartial ? 'leidu-today-badge is-partial' : 'leidu-today-badge';
+    badge.textContent = wantText;
+    if (!existing) button.appendChild(badge);
+  }
+
+  function installTwoAxisTodayBadges() {
+    var detail = document.querySelector('.xans-product-detail');
+    if (!detail) return;
+    var optionArea = detail.querySelector('.infoArea .xans-product-option');
+    if (!optionArea) return;
+    var projected = readProjectedTodayMap();
+    if (!projected || !projected.size) return;
+
+    injectTwoAxisTodayStyle();
+    var applying = false;
+    var scheduled = false;
+
+    function syncBadges() {
+      if (applying) return;
+      applying = true;
+      try {
+        var latestProjected = readProjectedTodayMap();
+        if (!latestProjected || !latestProjected.size) return;
+        var stock = null;
+        try {
+          stock = typeof window.option_stock_data === 'string'
+            ? JSON.parse(window.option_stock_data)
+            : window.option_stock_data;
+        } catch (e) {
+          stock = null;
+        }
+        if (!stock || typeof stock !== 'object') return;
+
+        var selects = Array.prototype.slice.call(
+          optionArea.querySelectorAll('select[option_select_element="ec-option-select-finder"][product_type="product_option"]')
+        ).sort(function (a, b) {
+          return Number(a.getAttribute('option_sort_no')) - Number(b.getAttribute('option_sort_no'));
+        });
+        if (!selects.length) return;
+
+        var variants = [];
+        var entries = Object.entries(stock);
+        for (var i = 0; i < entries.length; i++) {
+          var code = entries[i][0];
+          var row = entries[i][1];
+          if (latestProjected.has(code) && row && Array.isArray(row.option_value_orginal)) {
+            variants.push({
+              code: code,
+              values: row.option_value_orginal.map(decodeOptionUnicode)
+            });
+          }
+        }
+        if (!variants.length) return;
+
+        var hasMixedAxis = selects.length > 1;
+        for (var axis = 0; axis < selects.length; axis++) {
+          var select = selects[axis];
+          var isNonFinalAxis = hasMixedAxis && axis < selects.length - 1;
+          var options = Array.prototype.slice.call(select.options);
+          var realOptions = [];
+          for (var j = 0; j < options.length; j++) {
+            var opt = options[j];
+            var nextState = 'false';
+            if (!opt.disabled && opt.value !== '*' && opt.value !== '**') {
+              var candidates = variants.filter(function (v) {
+                if (v.values.length !== selects.length || v.values[axis] !== opt.value) return false;
+                for (var prev = 0; prev < axis; prev++) {
+                  if (selects[prev].value !== v.values[prev]) return false;
+                }
+                return true;
+              });
+              if (candidates.length > 0) {
+                var trueCount = 0;
+                for (var k = 0; k < candidates.length; k++) {
+                  if (latestProjected.get(candidates[k].code) === true) trueCount++;
+                }
+                if (trueCount === candidates.length) nextState = 'true';
+                else if (isNonFinalAxis && trueCount > 0) nextState = 'partial';
+              }
+              realOptions.push(opt);
+            }
+            if (opt.dataset.leiduToday !== nextState) {
+              opt.dataset.leiduToday = nextState;
+            }
+          }
+
+          var picker = select.previousElementSibling;
+          if (!picker || !picker.classList || !picker.classList.contains('leidu-option-picker')) {
+            var menuById = select.id ? document.getElementById('leidu-option-' + select.id) : null;
+            picker = menuById && menuById.closest ? menuById.closest('.leidu-option-picker') : null;
+          }
+          if (!picker) continue;
+
+          var trigger = picker.querySelector('.leidu-option-trigger');
+          var selectedOpt = (select.selectedOptions && select.selectedOptions[0]) || select.options[0];
+          if (trigger && selectedOpt) {
+            applyTodayBadgeState(trigger, selectedOpt.dataset ? selectedOpt.dataset.leiduToday : 'false');
+          }
+          var choices = picker.querySelectorAll('.leidu-option-menu .leidu-option-choice');
+          if (choices.length === realOptions.length) {
+            for (var c = 0; c < choices.length; c++) {
+              applyTodayBadgeState(choices[c], realOptions[c].dataset.leiduToday);
+            }
+          }
+        }
+      } finally {
+        applying = false;
+      }
+    }
+
+    function scheduleSync() {
+      if (applying || scheduled) return;
+      scheduled = true;
+      var run = function () {
+        scheduled = false;
+        syncBadges();
+      };
+      if (typeof window.requestAnimationFrame === 'function') {
+        window.requestAnimationFrame(run);
+      } else {
+        setTimeout(run, 16);
+      }
+    }
+
+    syncBadges();
+    setTimeout(syncBadges, 100);
+    setTimeout(syncBadges, 350);
+    optionArea.addEventListener('change', scheduleSync);
+    if (typeof window.MutationObserver === 'function') {
+      var obs = new window.MutationObserver(function () {
+        if (!applying) scheduleSync();
+      });
+      obs.observe(optionArea, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ['disabled', 'data-leidu-today']
+      });
+    }
+  }
+
   function init() {
+    installTwoAxisTodayBadges();
     var productNo = detectProductNo();
     if (!productNo) return;
 
