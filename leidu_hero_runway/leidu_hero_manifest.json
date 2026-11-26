@@ -29,17 +29,6 @@
       "best30_rank": 2
     },
     {
-      "product_no": 7898,
-      "model_id": "M68",
-      "brand": "SOAP & WATER",
-      "name": "솝앤워터 먼트 퍼 자켓",
-      "price": "392,000원",
-      "url": "/product/detail.html?product_no=7898",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795657380",
-      "raw_price": 392000,
-      "best30_rank": 3
-    },
-    {
       "product_no": 7962,
       "model_id": "M72",
       "brand": "UNDERSON",
@@ -899,17 +888,6 @@
       "url": "/product/detail.html?product_no=7969",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795657380",
       "raw_price": 52000,
-      "coordi_partner_nos": []
-    },
-    {
-      "product_no": 7898,
-      "model_id": "M68",
-      "brand": "SOAP & WATER",
-      "name": "솝앤워터 먼트 퍼 자켓",
-      "price": "392,000원",
-      "url": "/product/detail.html?product_no=7898",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795657380",
-      "raw_price": 392000,
       "coordi_partner_nos": []
     }
   ],
@@ -3183,15 +3161,6 @@
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
-      "coordi_partners": []
-    },
-    "7898": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795657380",
-      "primary_product_no": 7898,
-      "primary_name": "솝앤워터 먼트 퍼 자켓",
-      "is_with_item_shared": false,
-      "brand": "SOAP & WATER",
-      "model_id": "M68",
       "coordi_partners": []
     }
   },
