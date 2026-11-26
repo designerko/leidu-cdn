@@ -24,9 +24,20 @@
       "name": "레이크 알레 팬츠",
       "price": "52,000원",
       "url": "/product/detail.html?product_no=7969",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795657380",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795661484",
       "raw_price": 52000,
       "best30_rank": 2
+    },
+    {
+      "product_no": 7898,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "솝앤워터 먼트 퍼 자켓",
+      "price": "392,000원",
+      "url": "/product/detail.html?product_no=7898",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795661484",
+      "raw_price": 392000,
+      "best30_rank": 3
     },
     {
       "product_no": 7962,
@@ -40,17 +51,6 @@
       "best30_rank": 5
     },
     {
-      "product_no": 7907,
-      "model_id": "M31",
-      "brand": "BASKET",
-      "name": "바스켓 쿠키 (기모) 맨투맨",
-      "price": "67,000원",
-      "url": "/product/detail.html?product_no=7907",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7907_M31_dark_runway.mp4?v=1795657380",
-      "raw_price": 67000,
-      "best30_rank": 6
-    },
-    {
       "product_no": 7381,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -60,6 +60,17 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7381_M27_dark_runway.mp4?v=1795657380",
       "raw_price": 72000,
       "best30_rank": 4
+    },
+    {
+      "product_no": 7907,
+      "model_id": "M31",
+      "brand": "BASKET",
+      "name": "바스켓 쿠키 (기모) 맨투맨",
+      "price": "67,000원",
+      "url": "/product/detail.html?product_no=7907",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7907_M31_dark_runway.mp4?v=1795657380",
+      "raw_price": 67000,
+      "best30_rank": 6
     },
     {
       "product_no": 7823,
@@ -84,17 +95,6 @@
       "best30_rank": 9
     },
     {
-      "product_no": 7872,
-      "model_id": "M31",
-      "brand": "BASKET",
-      "name": "바스켓 모모 비니",
-      "price": "22,000원",
-      "url": "/product/detail.html?product_no=7872",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7872_M31_dark_runway.mp4?v=1795657380",
-      "raw_price": 22000,
-      "best30_rank": 7
-    },
-    {
       "product_no": 7519,
       "model_id": "M46",
       "brand": "BRUNCH",
@@ -104,6 +104,17 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7519_M46_dark_runway.mp4",
       "raw_price": 75000,
       "best30_rank": 13
+    },
+    {
+      "product_no": 7872,
+      "model_id": "M31",
+      "brand": "BASKET",
+      "name": "바스켓 모모 비니",
+      "price": "22,000원",
+      "url": "/product/detail.html?product_no=7872",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7872_M31_dark_runway.mp4?v=1795657380",
+      "raw_price": 22000,
+      "best30_rank": 7
     },
     {
       "product_no": 7714,
@@ -886,8 +897,19 @@
       "name": "레이크 알레 팬츠",
       "price": "52,000원",
       "url": "/product/detail.html?product_no=7969",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795657380",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795661484",
       "raw_price": 52000,
+      "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7898,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "솝앤워터 먼트 퍼 자켓",
+      "price": "392,000원",
+      "url": "/product/detail.html?product_no=7898",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795661484",
+      "raw_price": 392000,
       "coordi_partner_nos": []
     }
   ],
@@ -3155,17 +3177,26 @@
       "coordi_partners": []
     },
     "7969": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795657380",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795661484",
       "primary_product_no": 7969,
       "primary_name": "레이크 알레 팬츠",
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
       "coordi_partners": []
+    },
+    "7898": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795661484",
+      "primary_product_no": 7898,
+      "primary_name": "솝앤워터 먼트 퍼 자켓",
+      "is_with_item_shared": false,
+      "brand": "SOAP & WATER",
+      "model_id": "M68",
+      "coordi_partners": []
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-26T11:45:06+09:00",
+    "synced_at_kst": "2026-11-26T11:51:30+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
@@ -3229,11 +3260,11 @@
       7717,
       7704
     ],
-    "best30_matched_video_count": 25,
+    "best30_matched_video_count": 26,
     "guard_padded_count": 0,
-    "main_items_count": 25,
-    "archive_items_count": 46,
-    "pdp_videos_total_count": 91,
+    "main_items_count": 26,
+    "archive_items_count": 47,
+    "pdp_videos_total_count": 92,
     "pdp_primary_nos": [
       7335,
       7381,
@@ -3257,6 +3288,7 @@
       7872,
       7891,
       7893,
+      7898,
       7907,
       7912,
       7915,
