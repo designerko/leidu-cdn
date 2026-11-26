@@ -1,0 +1,27 @@
+{
+  "name": "LEIDU 繁體中文官方旗艦店",
+  "short_name": "LEIDU",
+  "description": "韓國首爾官方直營 · 免費註冊即享 5%~10% 專屬禮遇 · 任選 2 件順豐免運 · 4,000+ 真實買家評價與實穿影片",
+  "id": "/shop7/?utm_source=pwa",
+  "start_url": "/shop7/?utm_source=pwa",
+  "scope": "/shop7/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F2",
+  "theme_color": "#1E1B18",
+  "lang": "zh-TW",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dfzukpair/image/upload/v1794828912/leidu_pwa/leidu_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://res.cloudinary.com/dfzukpair/image/upload/v1794828911/leidu_pwa/leidu_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
