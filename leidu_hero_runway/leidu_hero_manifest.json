@@ -480,7 +480,8 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7706_M31_dark_runway.mp4",
       "raw_price": 38000,
       "coordi_partner_nos": [
-        7704
+        7704,
+        7342
       ]
     },
     {
@@ -1620,6 +1621,17 @@
       "model_id": "M31",
       "coordi_partners": [
         {
+          "product_no": 7342,
+          "name": "바스켓 멘토 트위드 자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/c8b44619087c9847b25238530855535c.jpg",
+          "raw_price": 126000,
+          "member_price": 110880,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7342"
+        },
+        {
           "product_no": 7704,
           "name": "바스켓 솔티골덴 팬츠",
           "role_label": "BOTTOM",
@@ -1641,6 +1653,17 @@
       "model_id": "M31",
       "coordi_partners": [
         {
+          "product_no": 7342,
+          "name": "바스켓 멘토 트위드 자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/c8b44619087c9847b25238530855535c.jpg",
+          "raw_price": 126000,
+          "member_price": 110880,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7342"
+        },
+        {
           "product_no": 7706,
           "name": "바스켓 버닝폴라 티셔츠",
           "role_label": "INNER · TOP",
@@ -1650,6 +1673,38 @@
           "member_group_dc": "T",
           "discount_rate": 12,
           "url": "/product/detail.html?product_no=7706"
+        }
+      ]
+    },
+    "7342": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7706_M31_dark_runway.mp4",
+      "primary_product_no": 7706,
+      "primary_name": "바스켓 버닝폴라 티셔츠",
+      "is_with_item_shared": true,
+      "brand": "BASKET",
+      "model_id": "M31",
+      "coordi_partners": [
+        {
+          "product_no": 7706,
+          "name": "바스켓 버닝폴라 티셔츠",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/38b4fffedcee0b56960cddc65a2dd81e.jpg",
+          "raw_price": 38000,
+          "member_price": 33440,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7706"
+        },
+        {
+          "product_no": 7704,
+          "name": "바스켓 솔티골덴 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/46c5938ab0b5fa9e06d5bf1b3407b84e.jpg",
+          "raw_price": 86000,
+          "member_price": 75680,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7704"
         }
       ]
     },
@@ -3196,7 +3251,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T08:09:31+09:00",
+    "synced_at_kst": "2026-11-27T08:24:42+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
@@ -3264,7 +3319,7 @@
     "guard_padded_count": 0,
     "main_items_count": 26,
     "archive_items_count": 47,
-    "pdp_videos_total_count": 92,
+    "pdp_videos_total_count": 93,
     "pdp_primary_nos": [
       7335,
       7381,
@@ -3317,6 +3372,7 @@
     "pdp_with_item_shared_nos": [
       7115,
       7341,
+      7342,
       7343,
       7361,
       7367,
