@@ -66,10 +66,10 @@
       "model_id": "M31",
       "brand": "BASKET",
       "name": "BASKET Cookie 內刷毛保暖寬鬆大學T (2色)",
-      "price": "NT$1,654",
+      "price": "NT$1,655",
       "url": "/product/detail.html?product_no=7907",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7907_M31_dark_runway.mp4?v=1795657380",
-      "raw_price": 1654,
+      "raw_price": 1655,
       "best30_rank": 6
     },
     {
@@ -571,10 +571,10 @@
       "model_id": "M72",
       "brand": "UNDERSON",
       "name": "UNDERSON 26 極簡純羊毛披肩圍巾 (3色)",
-      "price": "NT$987",
+      "price": "NT$988",
       "url": "/product/detail.html?product_no=7891",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7891_M72_dark_runway.mp4",
-      "raw_price": 987,
+      "raw_price": 988,
       "coordi_partner_nos": [
         7599
       ]
@@ -584,10 +584,10 @@
       "model_id": "M31",
       "brand": "BASKET",
       "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
-      "price": "NT$1,382",
+      "price": "NT$1,383",
       "url": "/product/detail.html?product_no=7912",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7912_M31_dark_runway.mp4",
-      "raw_price": 1382,
+      "raw_price": 1383,
       "coordi_partner_nos": [
         7908,
         7910
@@ -691,10 +691,10 @@
       "model_id": "M31",
       "brand": "BASKET",
       "name": "BASKET Cookie 內刷毛保暖寬鬆大學T (2色)",
-      "price": "NT$1,654",
+      "price": "NT$1,655",
       "url": "/product/detail.html?product_no=7907",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7907_M31_dark_runway.mp4?v=1795657380",
-      "raw_price": 1654,
+      "raw_price": 1655,
       "coordi_partner_nos": [
         7913
       ]
@@ -2232,8 +2232,8 @@
           "name": "UNDERSON 26 極簡純羊毛披肩圍巾 (3色)",
           "role_label": "ACC",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/66ca743de4de133c4310dd861a928e09.jpg",
-          "raw_price": 987,
-          "member_price": 938,
+          "raw_price": 988,
+          "member_price": 939,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7891"
@@ -2285,8 +2285,8 @@
           "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/1ff6a0eaa551fc6ac7837c9b2579c2a1.jpg",
-          "raw_price": 1382,
-          "member_price": 1313,
+          "raw_price": 1383,
+          "member_price": 1314,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7912"
@@ -2317,8 +2317,8 @@
           "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/1ff6a0eaa551fc6ac7837c9b2579c2a1.jpg",
-          "raw_price": 1382,
-          "member_price": 1313,
+          "raw_price": 1383,
+          "member_price": 1314,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7912"
@@ -2815,8 +2815,8 @@
           "name": "BASKET Cookie 內刷毛保暖寬鬆大學T (2色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/63ff4ff01afa3d13fa2e145f05fe0a62.jpg",
-          "raw_price": 1654,
-          "member_price": 1572,
+          "raw_price": 1655,
+          "member_price": 1573,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7907"
@@ -3251,7 +3251,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T12:39:52+09:00",
+    "synced_at_kst": "2026-11-27T12:55:47+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
