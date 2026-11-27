@@ -84,15 +84,15 @@
       "best30_rank": 15
     },
     {
-      "product_no": 7865,
-      "model_id": "M31",
-      "brand": "BASKET",
-      "name": "BASKET 溫柔大尺寸披肩圍巾 (2色)",
+      "product_no": 7958,
+      "model_id": "M72",
+      "brand": "UNDERSON",
+      "name": "UNDERSON Loft 安哥拉兔毛質感針織毛衣 (2色)",
       "price": "NT$1,926",
-      "url": "/product/detail.html?product_no=7865",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7865_M31_dark_runway.mp4",
+      "url": "/product/detail.html?product_no=7958",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
       "raw_price": 1926,
-      "best30_rank": 17
+      "best30_rank": 7
     },
     {
       "product_no": 7972,
@@ -117,6 +117,17 @@
       "best30_rank": 9
     },
     {
+      "product_no": 7865,
+      "model_id": "M31",
+      "brand": "BASKET",
+      "name": "BASKET 溫柔大尺寸披肩圍巾 (2色)",
+      "price": "NT$1,926",
+      "url": "/product/detail.html?product_no=7865",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7865_M31_dark_runway.mp4",
+      "raw_price": 1926,
+      "best30_rank": 17
+    },
+    {
       "product_no": 7814,
       "model_id": "M29",
       "brand": "NUESE",
@@ -126,17 +137,6 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
       "raw_price": 889,
       "best30_rank": 18
-    },
-    {
-      "product_no": 7036,
-      "model_id": "M68",
-      "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
-      "price": "NT$2,568",
-      "url": "/product/detail.html?product_no=7036",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
-      "raw_price": 2568,
-      "best30_rank": 21
     },
     {
       "product_no": 7974,
@@ -159,6 +159,50 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
       "raw_price": 1136,
       "best30_rank": 10
+    },
+    {
+      "product_no": 7777,
+      "model_id": "M72",
+      "brand": "UNDERSON",
+      "name": "UNDERSON Nimo 撞色拷克車線高領針織衫 (4色)",
+      "price": "NT$1,136",
+      "url": "/product/detail.html?product_no=7777",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7777_M72_dark_runway.mp4?v=1795784077",
+      "raw_price": 1136,
+      "best30_rank": 19
+    },
+    {
+      "product_no": 7036,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "price": "NT$2,568",
+      "url": "/product/detail.html?product_no=7036",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "raw_price": 2568,
+      "best30_rank": 21
+    },
+    {
+      "product_no": 7977,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "ATOFF Olsen 質感剪裁環保皮草外套 (2色)",
+      "price": "NT$4,692",
+      "url": "/product/detail.html?product_no=7977",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7977_M27_dark_runway.mp4?v=1795784077",
+      "raw_price": 4692,
+      "best30_rank": 12
+    },
+    {
+      "product_no": 7947,
+      "model_id": "M25",
+      "brand": "LAKE",
+      "name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "price": "NT$1,531",
+      "url": "/product/detail.html?product_no=7947",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795784302",
+      "raw_price": 1531,
+      "best30_rank": 13
     },
     {
       "product_no": 7952,
@@ -892,6 +936,56 @@
       "coordi_partner_nos": [
         7876
       ]
+    },
+    {
+      "product_no": 7958,
+      "model_id": "M72",
+      "brand": "UNDERSON",
+      "name": "UNDERSON Loft 安哥拉兔毛質感針織毛衣 (2色)",
+      "price": "NT$1,926",
+      "url": "/product/detail.html?product_no=7958",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "raw_price": 1926,
+      "coordi_partner_nos": [
+        7880
+      ]
+    },
+    {
+      "product_no": 7977,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "ATOFF Olsen 質感剪裁環保皮草外套 (2色)",
+      "price": "NT$4,692",
+      "url": "/product/detail.html?product_no=7977",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7977_M27_dark_runway.mp4?v=1795784077",
+      "raw_price": 4692,
+      "coordi_partner_nos": [
+        7973
+      ]
+    },
+    {
+      "product_no": 7777,
+      "model_id": "M72",
+      "brand": "UNDERSON",
+      "name": "UNDERSON Nimo 撞色拷克車線高領針織衫 (4色)",
+      "price": "NT$1,136",
+      "url": "/product/detail.html?product_no=7777",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7777_M72_dark_runway.mp4?v=1795784077",
+      "raw_price": 1136,
+      "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7947,
+      "model_id": "M25",
+      "brand": "LAKE",
+      "name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "price": "NT$1,531",
+      "url": "/product/detail.html?product_no=7947",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795784302",
+      "raw_price": 1531,
+      "coordi_partner_nos": [
+        7303
+      ]
     }
   ],
   "pdp_videos": {
@@ -1033,34 +1127,23 @@
       ]
     },
     "7880": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
-      "primary_product_no": 7962,
-      "primary_name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "primary_product_no": 7958,
+      "primary_name": "UNDERSON Loft 安哥拉兔毛質感針織毛衣 (2色)",
       "is_with_item_shared": true,
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
         {
-          "product_no": 7962,
-          "name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+          "product_no": 7958,
+          "name": "UNDERSON Loft 安哥拉兔毛質感針織毛衣 (2色)",
           "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/7f2b678ea1d24f4e74119fbde26a1d4f.jpg",
-          "raw_price": 1087,
-          "member_price": 1033,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/e2a589305f7dbe0088034a1afb48aac5.jpg",
+          "raw_price": 1926,
+          "member_price": 1830,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7962"
-        },
-        {
-          "product_no": 7961,
-          "name": "UNDERSON 安哥拉兔毛混紡捲邊毛帽 (2色)",
-          "role_label": "ACC",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/95ab7b2475f5b3f32310a29bf4411a9e.jpg",
-          "raw_price": 1136,
-          "member_price": 1080,
-          "member_group_dc": "T",
-          "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7961"
+          "url": "/product/detail.html?product_no=7958"
         }
       ]
     },
@@ -3632,10 +3715,124 @@
           "url": "/product/detail.html?product_no=7036"
         }
       ]
+    },
+    "7958": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "primary_product_no": 7958,
+      "primary_name": "UNDERSON Loft 安哥拉兔毛質感針織毛衣 (2色)",
+      "is_with_item_shared": false,
+      "brand": "UNDERSON",
+      "model_id": "M72",
+      "coordi_partners": [
+        {
+          "product_no": 7880,
+          "name": "UNDERSON Pebble 氣質A字中長裙 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/1c4f3dd1d119ae8146a91741888f1032.jpg",
+          "raw_price": 2642,
+          "member_price": 2510,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7880"
+        }
+      ]
+    },
+    "7977": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7977_M27_dark_runway.mp4?v=1795784077",
+      "primary_product_no": 7977,
+      "primary_name": "ATOFF Olsen 質感剪裁環保皮草外套 (2色)",
+      "is_with_item_shared": false,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7973,
+          "name": "ATOFF Grand 保暖刷毛休閒寬褲 (3色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/5136c0da38f1703bbb0014f53272b123.jpg",
+          "raw_price": 1531,
+          "member_price": 1455,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7973"
+        }
+      ]
+    },
+    "7973": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7977_M27_dark_runway.mp4?v=1795784077",
+      "primary_product_no": 7977,
+      "primary_name": "ATOFF Olsen 質感剪裁環保皮草外套 (2色)",
+      "is_with_item_shared": true,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7977,
+          "name": "ATOFF Olsen 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261125/3f367357740ec307e2489dfc2a9c1260.jpg",
+          "raw_price": 4692,
+          "member_price": 4458,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7977"
+        }
+      ]
+    },
+    "7777": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7777_M72_dark_runway.mp4?v=1795784077",
+      "primary_product_no": 7777,
+      "primary_name": "UNDERSON Nimo 撞色拷克車線高領針織衫 (4色)",
+      "is_with_item_shared": false,
+      "brand": "UNDERSON",
+      "model_id": "M72",
+      "coordi_partners": []
+    },
+    "7947": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795784302",
+      "primary_product_no": 7947,
+      "primary_name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "is_with_item_shared": false,
+      "brand": "LAKE",
+      "model_id": "M25",
+      "coordi_partners": [
+        {
+          "product_no": 7303,
+          "name": "LAKE Bay 極簡親膚羅紋無袖背心 (6色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/5ac03c30a411fafa7f3a6c2d1513d361.jpg",
+          "raw_price": 593,
+          "member_price": 564,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7303"
+        }
+      ]
+    },
+    "7303": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795784302",
+      "primary_product_no": 7947,
+      "primary_name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "is_with_item_shared": true,
+      "brand": "LAKE",
+      "model_id": "M25",
+      "coordi_partners": [
+        {
+          "product_no": 7947,
+          "name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261117/d165402f4140318506432260f8fdee16.jpg",
+          "raw_price": 1531,
+          "member_price": 1455,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7947"
+        }
+      ]
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T21:51:13+09:00",
+    "synced_at_kst": "2026-11-27T22:07:22+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3699,11 +3896,11 @@
       7944,
       7913
     ],
-    "best30_matched_video_count": 17,
+    "best30_matched_video_count": 21,
     "guard_padded_count": 0,
-    "main_items_count": 17,
-    "archive_items_count": 53,
-    "pdp_videos_total_count": 105,
+    "main_items_count": 21,
+    "archive_items_count": 57,
+    "pdp_videos_total_count": 111,
     "pdp_primary_nos": [
       7036,
       7335,
@@ -3717,6 +3914,7 @@
       7717,
       7760,
       7772,
+      7777,
       7798,
       7799,
       7800,
@@ -3747,9 +3945,11 @@
       7937,
       7941,
       7942,
+      7947,
       7950,
       7952,
       7954,
+      7958,
       7962,
       7963,
       7964,
@@ -3757,10 +3957,12 @@
       7971,
       7972,
       7974,
-      7975
+      7975,
+      7977
     ],
     "pdp_with_item_shared_nos": [
       7115,
+      7303,
       7341,
       7342,
       7343,
@@ -3811,7 +4013,8 @@
       7956,
       7960,
       7961,
-      7970
+      7970,
+      7973
     ]
   },
   "clip_timeline_ms": 8800,
