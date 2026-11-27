@@ -84,6 +84,17 @@
       "best30_rank": 17
     },
     {
+      "product_no": 7952,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "브런치 루즈 맨투맨",
+      "price": "57,000원",
+      "url": "/product/detail.html?product_no=7952",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 57000,
+      "best30_rank": 28
+    },
+    {
       "product_no": 7972,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -758,6 +769,32 @@
       "url": "/product/detail.html?product_no=7898",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795661484",
       "raw_price": 392000,
+      "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7852,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "브런치 로우 골덴 팬츠",
+      "price": "73,000원",
+      "url": "/product/detail.html?product_no=7852",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 73000,
+      "coordi_partner_nos": [
+        7889,
+        7824,
+        7850
+      ]
+    },
+    {
+      "product_no": 7952,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "브런치 루즈 맨투맨",
+      "price": "57,000원",
+      "url": "/product/detail.html?product_no=7952",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 57000,
       "coordi_partner_nos": []
     }
   ],
@@ -3117,10 +3154,191 @@
       "brand": "SOAP & WATER",
       "model_id": "M68",
       "coordi_partners": []
+    },
+    "7852": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "브런치 로우 골덴 팬츠",
+      "is_with_item_shared": false,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7824,
+          "name": "브런치 밀리 퍼자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/d7361b08b8ccd941cf3c303cc4444e71.jpg",
+          "raw_price": 238000,
+          "member_price": 209440,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7824"
+        },
+        {
+          "product_no": 7850,
+          "name": "브런치 테드 레더 점퍼",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3513e2b1a5047b9fcabe1b4f0f628a92.jpg",
+          "raw_price": 243000,
+          "member_price": 213840,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7850"
+        },
+        {
+          "product_no": 7889,
+          "name": "브런치 몰리 퍼 자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/991a509a38ad7ad6a307fa20f29a93fa.jpg",
+          "raw_price": 304000,
+          "member_price": 267520,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7889"
+        }
+      ]
+    },
+    "7889": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "브런치 로우 골덴 팬츠",
+      "is_with_item_shared": true,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7824,
+          "name": "브런치 밀리 퍼자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/d7361b08b8ccd941cf3c303cc4444e71.jpg",
+          "raw_price": 238000,
+          "member_price": 209440,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7824"
+        },
+        {
+          "product_no": 7850,
+          "name": "브런치 테드 레더 점퍼",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3513e2b1a5047b9fcabe1b4f0f628a92.jpg",
+          "raw_price": 243000,
+          "member_price": 213840,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7850"
+        },
+        {
+          "product_no": 7852,
+          "name": "브런치 로우 골덴 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
+          "raw_price": 73000,
+          "member_price": 64240,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7852"
+        }
+      ]
+    },
+    "7824": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "브런치 로우 골덴 팬츠",
+      "is_with_item_shared": true,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7850,
+          "name": "브런치 테드 레더 점퍼",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3513e2b1a5047b9fcabe1b4f0f628a92.jpg",
+          "raw_price": 243000,
+          "member_price": 213840,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7850"
+        },
+        {
+          "product_no": 7889,
+          "name": "브런치 몰리 퍼 자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/991a509a38ad7ad6a307fa20f29a93fa.jpg",
+          "raw_price": 304000,
+          "member_price": 267520,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7889"
+        },
+        {
+          "product_no": 7852,
+          "name": "브런치 로우 골덴 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
+          "raw_price": 73000,
+          "member_price": 64240,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7852"
+        }
+      ]
+    },
+    "7850": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "브런치 로우 골덴 팬츠",
+      "is_with_item_shared": true,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7824,
+          "name": "브런치 밀리 퍼자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/d7361b08b8ccd941cf3c303cc4444e71.jpg",
+          "raw_price": 238000,
+          "member_price": 209440,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7824"
+        },
+        {
+          "product_no": 7889,
+          "name": "브런치 몰리 퍼 자켓",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/991a509a38ad7ad6a307fa20f29a93fa.jpg",
+          "raw_price": 304000,
+          "member_price": 267520,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7889"
+        },
+        {
+          "product_no": 7852,
+          "name": "브런치 로우 골덴 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
+          "raw_price": 73000,
+          "member_price": 64240,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7852"
+        }
+      ]
+    },
+    "7952": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7952,
+      "primary_name": "브런치 루즈 맨투맨",
+      "is_with_item_shared": false,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": []
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T21:35:24+09:00",
+    "synced_at_kst": "2026-11-27T21:41:06+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3184,11 +3402,11 @@
       7944,
       7913
     ],
-    "best30_matched_video_count": 12,
+    "best30_matched_video_count": 13,
     "guard_padded_count": 0,
-    "main_items_count": 12,
-    "archive_items_count": 47,
-    "pdp_videos_total_count": 93,
+    "main_items_count": 13,
+    "archive_items_count": 49,
+    "pdp_videos_total_count": 98,
     "pdp_primary_nos": [
       7335,
       7381,
@@ -3206,6 +3424,7 @@
       7802,
       7823,
       7846,
+      7852,
       7853,
       7865,
       7870,
@@ -3228,6 +3447,7 @@
       7941,
       7942,
       7950,
+      7952,
       7954,
       7962,
       7963,
@@ -3259,11 +3479,13 @@
       7796,
       7808,
       7819,
+      7824,
       7830,
       7831,
       7834,
       7841,
       7848,
+      7850,
       7851,
       7855,
       7862,
@@ -3271,6 +3493,7 @@
       7877,
       7880,
       7885,
+      7889,
       7899,
       7904,
       7908,
