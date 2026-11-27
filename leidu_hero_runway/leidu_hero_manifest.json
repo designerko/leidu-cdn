@@ -73,6 +73,17 @@
       "best30_rank": 8
     },
     {
+      "product_no": 7896,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "누즈 프레드 팬츠",
+      "price": "107,000원",
+      "url": "/product/detail.html?product_no=7896",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 107000,
+      "best30_rank": 15
+    },
+    {
       "product_no": 7865,
       "model_id": "M31",
       "brand": "BASKET",
@@ -82,17 +93,6 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7865_M31_dark_runway.mp4",
       "raw_price": 78000,
       "best30_rank": 17
-    },
-    {
-      "product_no": 7952,
-      "model_id": "M46",
-      "brand": "BRUNCH",
-      "name": "브런치 루즈 맨투맨",
-      "price": "57,000원",
-      "url": "/product/detail.html?product_no=7952",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
-      "raw_price": 57000,
-      "best30_rank": 28
     },
     {
       "product_no": 7972,
@@ -117,6 +117,28 @@
       "best30_rank": 9
     },
     {
+      "product_no": 7814,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "누즈 매니버튼 티셔츠",
+      "price": "36,000원",
+      "url": "/product/detail.html?product_no=7814",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 36000,
+      "best30_rank": 18
+    },
+    {
+      "product_no": 7036,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "솝앤워터 알버트 팬츠",
+      "price": "104,000원",
+      "url": "/product/detail.html?product_no=7036",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "raw_price": 104000,
+      "best30_rank": 21
+    },
+    {
       "product_no": 7974,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -139,6 +161,17 @@
       "best30_rank": 10
     },
     {
+      "product_no": 7952,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "브런치 루즈 맨투맨",
+      "price": "57,000원",
+      "url": "/product/detail.html?product_no=7952",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 57000,
+      "best30_rank": 28
+    },
+    {
       "product_no": 7937,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -148,6 +181,17 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "raw_price": 51000,
       "best30_rank": 14
+    },
+    {
+      "product_no": 7697,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "어토프 라이스트링 블라우스",
+      "price": "78,000원",
+      "url": "/product/detail.html?product_no=7697",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "raw_price": 78000,
+      "best30_rank": 20
     }
   ],
   "banners": [
@@ -796,6 +840,58 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
       "raw_price": 57000,
       "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7896,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "누즈 프레드 팬츠",
+      "price": "107,000원",
+      "url": "/product/detail.html?product_no=7896",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 107000,
+      "coordi_partner_nos": [
+        7895
+      ]
+    },
+    {
+      "product_no": 7814,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "누즈 매니버튼 티셔츠",
+      "price": "36,000원",
+      "url": "/product/detail.html?product_no=7814",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 36000,
+      "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7697,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "어토프 라이스트링 블라우스",
+      "price": "78,000원",
+      "url": "/product/detail.html?product_no=7697",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "raw_price": 78000,
+      "coordi_partner_nos": [
+        7343,
+        7695,
+        7699
+      ]
+    },
+    {
+      "product_no": 7036,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "솝앤워터 알버트 팬츠",
+      "price": "104,000원",
+      "url": "/product/detail.html?product_no=7036",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "raw_price": 104000,
+      "coordi_partner_nos": [
+        7876
+      ]
     }
   ],
   "pdp_videos": {
@@ -1414,34 +1510,45 @@
       ]
     },
     "7699": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7798_M27_dark_runway.mp4",
-      "primary_product_no": 7798,
-      "primary_name": "어토프 하버 팬츠",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "어토프 라이스트링 블라우스",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
       "coordi_partners": [
         {
-          "product_no": 7796,
-          "name": "어토프 머그 맨투맨",
+          "product_no": 7697,
+          "name": "어토프 라이스트링 블라우스",
           "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/f0ae421dc88614c68096f7af1e13ce08.jpg",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/e9334f45bda1a2a8caed0580fb5cb37c.jpg",
+          "raw_price": 78000,
+          "member_price": 68640,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7697"
+        },
+        {
+          "product_no": 7343,
+          "name": "어토프 모어 슬랙스",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/f7954c60cccb02dfe89bf23597b97755.jpg",
           "raw_price": 72000,
           "member_price": 63360,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7796"
+          "url": "/product/detail.html?product_no=7343"
         },
         {
-          "product_no": 7798,
-          "name": "어토프 하버 팬츠",
+          "product_no": 7695,
+          "name": "어토프 바운드 스커트",
           "role_label": "BOTTOM",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/de3dd04b1e47fd7da87a68524a4bba2d.jpg",
-          "raw_price": 67000,
-          "member_price": 58960,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/7760c7d48d239e00b4bfcec59b36b57d.jpg",
+          "raw_price": 56000,
+          "member_price": 49280,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7798"
+          "url": "/product/detail.html?product_no=7695"
         }
       ]
     },
@@ -1657,34 +1764,45 @@
       ]
     },
     "7343": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7335_M27_dark_runway.mp4",
-      "primary_product_no": 7335,
-      "primary_name": "어토프 보우 브이 맨투맨",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "어토프 라이스트링 블라우스",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
       "coordi_partners": [
         {
-          "product_no": 7335,
-          "name": "어토프 보우 브이 맨투맨",
-          "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/cc93ae16de9684171520a7669921d836.jpg",
-          "raw_price": 51000,
-          "member_price": 44880,
+          "product_no": 7699,
+          "name": "어토프 폭스 퍼베스트",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/a5018b8b279df603efd2251508d72c78.jpg",
+          "raw_price": 110000,
+          "member_price": 96800,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7335"
+          "url": "/product/detail.html?product_no=7699"
         },
         {
-          "product_no": 7341,
-          "name": "어토프 보우롱 스커트",
-          "role_label": "BOTTOM",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/acdbca117b63c719c0b7684f40e24c1a.jpg",
-          "raw_price": 40000,
-          "member_price": 35200,
+          "product_no": 7697,
+          "name": "어토프 라이스트링 블라우스",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/e9334f45bda1a2a8caed0580fb5cb37c.jpg",
+          "raw_price": 78000,
+          "member_price": 68640,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7341"
+          "url": "/product/detail.html?product_no=7697"
+        },
+        {
+          "product_no": 7695,
+          "name": "어토프 바운드 스커트",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/7760c7d48d239e00b4bfcec59b36b57d.jpg",
+          "raw_price": 56000,
+          "member_price": 49280,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7695"
         }
       ]
     },
@@ -3335,10 +3453,189 @@
       "brand": "BRUNCH",
       "model_id": "M46",
       "coordi_partners": []
+    },
+    "7896": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7896,
+      "primary_name": "누즈 프레드 팬츠",
+      "is_with_item_shared": false,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7895,
+          "name": "누즈 포그 캡소매 티셔츠",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261109/c817baf6033a50b915725a04cadef658.jpg",
+          "raw_price": 30000,
+          "member_price": 26400,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7895"
+        }
+      ]
+    },
+    "7895": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7896,
+      "primary_name": "누즈 프레드 팬츠",
+      "is_with_item_shared": true,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7896,
+          "name": "누즈 프레드 팬츠(기모)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/660bfc4001a15daf897606459ea262c2.jpg",
+          "raw_price": 107000,
+          "member_price": 94160,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7896"
+        }
+      ]
+    },
+    "7814": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7814,
+      "primary_name": "누즈 매니버튼 티셔츠",
+      "is_with_item_shared": false,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": []
+    },
+    "7697": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "어토프 라이스트링 블라우스",
+      "is_with_item_shared": false,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7699,
+          "name": "어토프 폭스 퍼베스트",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/a5018b8b279df603efd2251508d72c78.jpg",
+          "raw_price": 110000,
+          "member_price": 96800,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7699"
+        },
+        {
+          "product_no": 7343,
+          "name": "어토프 모어 슬랙스",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/f7954c60cccb02dfe89bf23597b97755.jpg",
+          "raw_price": 72000,
+          "member_price": 63360,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7343"
+        },
+        {
+          "product_no": 7695,
+          "name": "어토프 바운드 스커트",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/7760c7d48d239e00b4bfcec59b36b57d.jpg",
+          "raw_price": 56000,
+          "member_price": 49280,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7695"
+        }
+      ]
+    },
+    "7695": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "어토프 라이스트링 블라우스",
+      "is_with_item_shared": true,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7699,
+          "name": "어토프 폭스 퍼베스트",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/a5018b8b279df603efd2251508d72c78.jpg",
+          "raw_price": 110000,
+          "member_price": 96800,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7699"
+        },
+        {
+          "product_no": 7697,
+          "name": "어토프 라이스트링 블라우스",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/e9334f45bda1a2a8caed0580fb5cb37c.jpg",
+          "raw_price": 78000,
+          "member_price": 68640,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7697"
+        },
+        {
+          "product_no": 7343,
+          "name": "어토프 모어 슬랙스",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/f7954c60cccb02dfe89bf23597b97755.jpg",
+          "raw_price": 72000,
+          "member_price": 63360,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7343"
+        }
+      ]
+    },
+    "7036": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7036,
+      "primary_name": "솝앤워터 알버트 팬츠",
+      "is_with_item_shared": false,
+      "brand": "SOAP & WATER",
+      "model_id": "M68",
+      "coordi_partners": [
+        {
+          "product_no": 7876,
+          "name": "솝앤워터 아폴 퍼",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261104/2e19fa56463cba51ab21d247ccd7a354.jpg",
+          "raw_price": 248000,
+          "member_price": 218240,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7876"
+        }
+      ]
+    },
+    "7876": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7036,
+      "primary_name": "솝앤워터 알버트 팬츠",
+      "is_with_item_shared": true,
+      "brand": "SOAP & WATER",
+      "model_id": "M68",
+      "coordi_partners": [
+        {
+          "product_no": 7036,
+          "name": "솝앤워터 알버트 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/1ec51e8083a84b35208c383e55d601f3.jpg",
+          "raw_price": 104000,
+          "member_price": 91520,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7036"
+        }
+      ]
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T21:41:06+09:00",
+    "synced_at_kst": "2026-11-27T21:48:39+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3402,16 +3699,18 @@
       7944,
       7913
     ],
-    "best30_matched_video_count": 13,
+    "best30_matched_video_count": 17,
     "guard_padded_count": 0,
-    "main_items_count": 13,
-    "archive_items_count": 49,
-    "pdp_videos_total_count": 98,
+    "main_items_count": 17,
+    "archive_items_count": 53,
+    "pdp_videos_total_count": 105,
     "pdp_primary_nos": [
+      7036,
       7335,
       7381,
       7432,
       7519,
+      7697,
       7706,
       7714,
       7715,
@@ -3422,6 +3721,7 @@
       7799,
       7800,
       7802,
+      7814,
       7823,
       7846,
       7852,
@@ -3431,6 +3731,7 @@
       7872,
       7891,
       7893,
+      7896,
       7898,
       7907,
       7912,
@@ -3472,6 +3773,7 @@
       7590,
       7599,
       7680,
+      7695,
       7699,
       7704,
       7756,
@@ -3490,10 +3792,12 @@
       7855,
       7862,
       7864,
+      7876,
       7877,
       7880,
       7885,
       7889,
+      7895,
       7899,
       7904,
       7908,
