@@ -117,17 +117,6 @@
       "best30_rank": 11
     },
     {
-      "product_no": 7907,
-      "model_id": "M31",
-      "brand": "BASKET",
-      "name": "BASKET Cookie 內刷毛保暖寬鬆大學T (2色)",
-      "price": "NT$1,655",
-      "url": "/product/detail.html?product_no=7907",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7907_M31_dark_runway.mp4?v=1795657380",
-      "raw_price": 1655,
-      "best30_rank": 30
-    },
-    {
       "product_no": 7714,
       "model_id": "M25",
       "brand": "LAKE",
@@ -148,6 +137,17 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "raw_price": 1259,
       "best30_rank": 14
+    },
+    {
+      "product_no": 7964,
+      "model_id": "M25",
+      "brand": "LAKE",
+      "name": "LAKE Holly 俐落高腰直筒休閒褲 (3色)",
+      "price": "NT$1,482",
+      "url": "/product/detail.html?product_no=7964",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7964_M25_dark_runway.mp4?v=1795657380",
+      "raw_price": 1482,
+      "best30_rank": 30
     }
   ],
   "banners": [
@@ -3131,7 +3131,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T14:57:54+09:00",
+    "synced_at_kst": "2026-11-27T15:02:00+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3163,7 +3163,7 @@
       7957,
       7952,
       7323,
-      7907
+      7964
     ],
     "weekly_best30_product_nos": [
       7962,
