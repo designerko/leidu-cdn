@@ -523,10 +523,10 @@
       "model_id": "M27",
       "brand": "ATOFF",
       "name": "ATOFF Archive 經典直筒丹寧牛仔褲 (單色)",
-      "price": "NT$1,777",
+      "price": "NT$1,778",
       "url": "/product/detail.html?product_no=7381",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7381_M27_dark_runway.mp4?v=1795657380",
-      "raw_price": 1777,
+      "raw_price": 1778,
       "coordi_partner_nos": [
         7590,
         7367
@@ -2545,8 +2545,8 @@
           "name": "ATOFF Ness 經典雙排釦風衣外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/851f2e14e1ad51a2f5cd98b22f50c72f.jpg",
-          "raw_price": 4543,
-          "member_price": 4316,
+          "raw_price": 4544,
+          "member_price": 4317,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7590"
@@ -2556,8 +2556,8 @@
           "name": "ATOFF Noa 氣質半高領打底上衣 (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/72c975dd1b5a6eacc9e259e5d68c25d0.jpg",
-          "raw_price": 987,
-          "member_price": 938,
+          "raw_price": 988,
+          "member_price": 939,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7367"
@@ -2577,8 +2577,8 @@
           "name": "ATOFF Noa 氣質半高領打底上衣 (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/72c975dd1b5a6eacc9e259e5d68c25d0.jpg",
-          "raw_price": 987,
-          "member_price": 938,
+          "raw_price": 988,
+          "member_price": 939,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7367"
@@ -2588,8 +2588,8 @@
           "name": "ATOFF Archive 經典直筒丹寧牛仔褲 (單色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/00be5361357759de88f066243c7412ce.jpg",
-          "raw_price": 1777,
-          "member_price": 1689,
+          "raw_price": 1778,
+          "member_price": 1690,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7381"
@@ -2609,8 +2609,8 @@
           "name": "ATOFF Ness 經典雙排釦風衣外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/851f2e14e1ad51a2f5cd98b22f50c72f.jpg",
-          "raw_price": 4543,
-          "member_price": 4316,
+          "raw_price": 4544,
+          "member_price": 4317,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7590"
@@ -2620,8 +2620,8 @@
           "name": "ATOFF Archive 經典直筒丹寧牛仔褲 (單色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/00be5361357759de88f066243c7412ce.jpg",
-          "raw_price": 1777,
-          "member_price": 1689,
+          "raw_price": 1778,
+          "member_price": 1690,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7381"
@@ -3120,7 +3120,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T17:46:25+09:00",
+    "synced_at_kst": "2026-11-27T18:02:24+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
