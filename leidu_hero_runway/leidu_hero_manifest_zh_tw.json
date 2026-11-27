@@ -175,7 +175,7 @@
       "product_no": 7036,
       "model_id": "M68",
       "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "name": "SOAP & WATER Albert 長褲 (3色)",
       "price": "NT$2,568",
       "url": "/product/detail.html?product_no=7036",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
@@ -928,7 +928,7 @@
       "product_no": 7036,
       "model_id": "M68",
       "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "name": "SOAP & WATER Albert 長褲 (3色)",
       "price": "NT$2,568",
       "url": "/product/detail.html?product_no=7036",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
@@ -3675,7 +3675,7 @@
     "7036": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
       "primary_product_no": 7036,
-      "primary_name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "primary_name": "SOAP & WATER Albert 長褲 (3色)",
       "is_with_item_shared": false,
       "brand": "SOAP & WATER",
       "model_id": "M68",
@@ -3696,14 +3696,14 @@
     "7876": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
       "primary_product_no": 7036,
-      "primary_name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "primary_name": "SOAP & WATER Albert 長褲 (3色)",
       "is_with_item_shared": true,
       "brand": "SOAP & WATER",
       "model_id": "M68",
       "coordi_partners": [
         {
           "product_no": 7036,
-          "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+          "name": "SOAP & WATER Albert 長褲 (3色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/1ec51e8083a84b35208c383e55d601f3.jpg",
           "raw_price": 2568,
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T03:29:11+09:00",
+    "synced_at_kst": "2026-11-28T03:44:59+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
