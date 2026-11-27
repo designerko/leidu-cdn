@@ -976,8 +976,8 @@
           "name": "BRUNCH Hush 修身直筒丹寧牛仔褲 (單色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/576a13b9d3d2569feaa1b2081cd398d3.jpg",
-          "raw_price": 1654,
-          "member_price": 1572,
+          "raw_price": 1655,
+          "member_price": 1573,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7756"
@@ -1664,8 +1664,8 @@
           "name": "SOAP & WATER Pre 柔軟針織開襟外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/83459f9af3b6ea96308ee0ff6a3a8990.jpg",
-          "raw_price": 4148,
-          "member_price": 3941,
+          "raw_price": 4149,
+          "member_price": 3942,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7361"
@@ -1728,8 +1728,8 @@
           "name": "SOAP & WATER Pre 柔軟針織開襟外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/83459f9af3b6ea96308ee0ff6a3a8990.jpg",
-          "raw_price": 4148,
-          "member_price": 3941,
+          "raw_price": 4149,
+          "member_price": 3942,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7361"
@@ -3120,7 +3120,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T18:02:24+09:00",
+    "synced_at_kst": "2026-11-27T18:18:20+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
