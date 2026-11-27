@@ -73,6 +73,17 @@
       "best30_rank": 8
     },
     {
+      "product_no": 7896,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "NUESE Fred 內刷毛保暖休閒長褲 (4色)",
+      "price": "NT$2,642",
+      "url": "/product/detail.html?product_no=7896",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 2642,
+      "best30_rank": 15
+    },
+    {
       "product_no": 7865,
       "model_id": "M31",
       "brand": "BASKET",
@@ -106,6 +117,28 @@
       "best30_rank": 9
     },
     {
+      "product_no": 7814,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "NUESE 多釦裝飾長袖上衣 (4色)",
+      "price": "NT$889",
+      "url": "/product/detail.html?product_no=7814",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 889,
+      "best30_rank": 18
+    },
+    {
+      "product_no": 7036,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "price": "NT$2,568",
+      "url": "/product/detail.html?product_no=7036",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "raw_price": 2568,
+      "best30_rank": 21
+    },
+    {
       "product_no": 7974,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -128,6 +161,17 @@
       "best30_rank": 10
     },
     {
+      "product_no": 7952,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "BRUNCH 慵懶寬鬆休閒大學T (3色)",
+      "price": "NT$1,408",
+      "url": "/product/detail.html?product_no=7952",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 1408,
+      "best30_rank": 28
+    },
+    {
       "product_no": 7937,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -137,6 +181,17 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "raw_price": 1259,
       "best30_rank": 14
+    },
+    {
+      "product_no": 7697,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
+      "price": "NT$1,926",
+      "url": "/product/detail.html?product_no=7697",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "raw_price": 1926,
+      "best30_rank": 20
     }
   ],
   "banners": [
@@ -759,6 +814,84 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7898_M68_dark_runway.mp4?v=1795661484",
       "raw_price": 9680,
       "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7852,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "price": "NT$1,803",
+      "url": "/product/detail.html?product_no=7852",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 1803,
+      "coordi_partner_nos": [
+        7889,
+        7824,
+        7850
+      ]
+    },
+    {
+      "product_no": 7952,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "BRUNCH 慵懶寬鬆休閒大學T (3色)",
+      "price": "NT$1,408",
+      "url": "/product/detail.html?product_no=7952",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 1408,
+      "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7896,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "NUESE Fred 內刷毛保暖休閒長褲 (4色)",
+      "price": "NT$2,642",
+      "url": "/product/detail.html?product_no=7896",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 2642,
+      "coordi_partner_nos": [
+        7895
+      ]
+    },
+    {
+      "product_no": 7814,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "NUESE 多釦裝飾長袖上衣 (4色)",
+      "price": "NT$889",
+      "url": "/product/detail.html?product_no=7814",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "raw_price": 889,
+      "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7697,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
+      "price": "NT$1,926",
+      "url": "/product/detail.html?product_no=7697",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "raw_price": 1926,
+      "coordi_partner_nos": [
+        7343,
+        7695,
+        7699
+      ]
+    },
+    {
+      "product_no": 7036,
+      "model_id": "M68",
+      "brand": "SOAP & WATER",
+      "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "price": "NT$2,568",
+      "url": "/product/detail.html?product_no=7036",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "raw_price": 2568,
+      "coordi_partner_nos": [
+        7876
+      ]
     }
   ],
   "pdp_videos": {
@@ -1377,34 +1510,45 @@
       ]
     },
     "7699": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7798_M27_dark_runway.mp4",
-      "primary_product_no": 7798,
-      "primary_name": "ATOFF Harbor 俐落打褶休閒寬褲 (3色)",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
       "coordi_partners": [
         {
-          "product_no": 7796,
-          "name": "ATOFF Mug 寬鬆刷毛休閒大學T (3色)",
+          "product_no": 7697,
+          "name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
           "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/f0ae421dc88614c68096f7af1e13ce08.jpg",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/e9334f45bda1a2a8caed0580fb5cb37c.jpg",
+          "raw_price": 1926,
+          "member_price": 1830,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7697"
+        },
+        {
+          "product_no": 7343,
+          "name": "ATOFF More 俐落垂墜西裝寬褲 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/f7954c60cccb02dfe89bf23597b97755.jpg",
           "raw_price": 1778,
           "member_price": 1690,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7796"
+          "url": "/product/detail.html?product_no=7343"
         },
         {
-          "product_no": 7798,
-          "name": "ATOFF Harbor 俐落打褶休閒寬褲 (3色)",
+          "product_no": 7695,
+          "name": "ATOFF Bound 氣質優雅半身裙 (2色)",
           "role_label": "BOTTOM",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/de3dd04b1e47fd7da87a68524a4bba2d.jpg",
-          "raw_price": 1655,
-          "member_price": 1573,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/7760c7d48d239e00b4bfcec59b36b57d.jpg",
+          "raw_price": 1383,
+          "member_price": 1314,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7798"
+          "url": "/product/detail.html?product_no=7695"
         }
       ]
     },
@@ -1620,34 +1764,45 @@
       ]
     },
     "7343": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7335_M27_dark_runway.mp4",
-      "primary_product_no": 7335,
-      "primary_name": "ATOFF Bow V領休閒大學T (3色)",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
       "coordi_partners": [
         {
-          "product_no": 7335,
-          "name": "ATOFF Bow V領休閒大學T (3色)",
-          "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/cc93ae16de9684171520a7669921d836.jpg",
-          "raw_price": 1259,
-          "member_price": 1197,
+          "product_no": 7699,
+          "name": "ATOFF Fox 奢華環保狐狸毛背心 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/a5018b8b279df603efd2251508d72c78.jpg",
+          "raw_price": 2716,
+          "member_price": 2581,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7335"
+          "url": "/product/detail.html?product_no=7699"
         },
         {
-          "product_no": 7341,
-          "name": "ATOFF Bow 垂墜感百搭長裙 (3色)",
-          "role_label": "BOTTOM",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/acdbca117b63c719c0b7684f40e24c1a.jpg",
-          "raw_price": 988,
-          "member_price": 939,
+          "product_no": 7697,
+          "name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/e9334f45bda1a2a8caed0580fb5cb37c.jpg",
+          "raw_price": 1926,
+          "member_price": 1830,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7341"
+          "url": "/product/detail.html?product_no=7697"
+        },
+        {
+          "product_no": 7695,
+          "name": "ATOFF Bound 氣質優雅半身裙 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/7760c7d48d239e00b4bfcec59b36b57d.jpg",
+          "raw_price": 1383,
+          "member_price": 1314,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7695"
         }
       ]
     },
@@ -3117,10 +3272,370 @@
       "brand": "SOAP & WATER",
       "model_id": "M68",
       "coordi_partners": []
+    },
+    "7852": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "is_with_item_shared": false,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7824,
+          "name": "BRUNCH Milly 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/d7361b08b8ccd941cf3c303cc4444e71.jpg",
+          "raw_price": 5877,
+          "member_price": 5584,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7824"
+        },
+        {
+          "product_no": 7850,
+          "name": "BRUNCH Ted 質感剪裁皮革夾克 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3513e2b1a5047b9fcabe1b4f0f628a92.jpg",
+          "raw_price": 6001,
+          "member_price": 5701,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7850"
+        },
+        {
+          "product_no": 7889,
+          "name": "BRUNCH Molly 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/991a509a38ad7ad6a307fa20f29a93fa.jpg",
+          "raw_price": 7507,
+          "member_price": 7132,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7889"
+        }
+      ]
+    },
+    "7889": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "is_with_item_shared": true,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7824,
+          "name": "BRUNCH Milly 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/d7361b08b8ccd941cf3c303cc4444e71.jpg",
+          "raw_price": 5877,
+          "member_price": 5584,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7824"
+        },
+        {
+          "product_no": 7850,
+          "name": "BRUNCH Ted 質感剪裁皮革夾克 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3513e2b1a5047b9fcabe1b4f0f628a92.jpg",
+          "raw_price": 6001,
+          "member_price": 5701,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7850"
+        },
+        {
+          "product_no": 7852,
+          "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
+          "raw_price": 1803,
+          "member_price": 1713,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7852"
+        }
+      ]
+    },
+    "7824": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "is_with_item_shared": true,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7850,
+          "name": "BRUNCH Ted 質感剪裁皮革夾克 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3513e2b1a5047b9fcabe1b4f0f628a92.jpg",
+          "raw_price": 6001,
+          "member_price": 5701,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7850"
+        },
+        {
+          "product_no": 7889,
+          "name": "BRUNCH Molly 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/991a509a38ad7ad6a307fa20f29a93fa.jpg",
+          "raw_price": 7507,
+          "member_price": 7132,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7889"
+        },
+        {
+          "product_no": 7852,
+          "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
+          "raw_price": 1803,
+          "member_price": 1713,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7852"
+        }
+      ]
+    },
+    "7850": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7852,
+      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "is_with_item_shared": true,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": [
+        {
+          "product_no": 7824,
+          "name": "BRUNCH Milly 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/d7361b08b8ccd941cf3c303cc4444e71.jpg",
+          "raw_price": 5877,
+          "member_price": 5584,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7824"
+        },
+        {
+          "product_no": 7889,
+          "name": "BRUNCH Molly 質感剪裁環保皮草外套 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/991a509a38ad7ad6a307fa20f29a93fa.jpg",
+          "raw_price": 7507,
+          "member_price": 7132,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7889"
+        },
+        {
+          "product_no": 7852,
+          "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
+          "raw_price": 1803,
+          "member_price": 1713,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7852"
+        }
+      ]
+    },
+    "7952": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "primary_product_no": 7952,
+      "primary_name": "BRUNCH 慵懶寬鬆休閒大學T (3色)",
+      "is_with_item_shared": false,
+      "brand": "BRUNCH",
+      "model_id": "M46",
+      "coordi_partners": []
+    },
+    "7896": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7896,
+      "primary_name": "NUESE Fred 內刷毛保暖休閒長褲 (4色)",
+      "is_with_item_shared": false,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7895,
+          "name": "NUESE Fog 修飾蓋袖長袖上衣 (3色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261109/c817baf6033a50b915725a04cadef658.jpg",
+          "raw_price": 741,
+          "member_price": 704,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7895"
+        }
+      ]
+    },
+    "7895": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7896_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7896,
+      "primary_name": "NUESE Fred 內刷毛保暖休閒長褲 (4色)",
+      "is_with_item_shared": true,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7896,
+          "name": "NUESE Fred 內刷毛保暖休閒長褲 (4色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/660bfc4001a15daf897606459ea262c2.jpg",
+          "raw_price": 2642,
+          "member_price": 2510,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7896"
+        }
+      ]
+    },
+    "7814": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7814,
+      "primary_name": "NUESE 多釦裝飾長袖上衣 (4色)",
+      "is_with_item_shared": false,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": []
+    },
+    "7697": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
+      "is_with_item_shared": false,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7699,
+          "name": "ATOFF Fox 奢華環保狐狸毛背心 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/a5018b8b279df603efd2251508d72c78.jpg",
+          "raw_price": 2716,
+          "member_price": 2581,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7699"
+        },
+        {
+          "product_no": 7343,
+          "name": "ATOFF More 俐落垂墜西裝寬褲 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/f7954c60cccb02dfe89bf23597b97755.jpg",
+          "raw_price": 1778,
+          "member_price": 1690,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7343"
+        },
+        {
+          "product_no": 7695,
+          "name": "ATOFF Bound 氣質優雅半身裙 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/7760c7d48d239e00b4bfcec59b36b57d.jpg",
+          "raw_price": 1383,
+          "member_price": 1314,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7695"
+        }
+      ]
+    },
+    "7695": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7697,
+      "primary_name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
+      "is_with_item_shared": true,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7699,
+          "name": "ATOFF Fox 奢華環保狐狸毛背心 (2色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/a5018b8b279df603efd2251508d72c78.jpg",
+          "raw_price": 2716,
+          "member_price": 2581,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7699"
+        },
+        {
+          "product_no": 7697,
+          "name": "ATOFF Rye 抽繩鬆緊氣質襯衫 (3色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/e9334f45bda1a2a8caed0580fb5cb37c.jpg",
+          "raw_price": 1926,
+          "member_price": 1830,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7697"
+        },
+        {
+          "product_no": 7343,
+          "name": "ATOFF More 俐落垂墜西裝寬褲 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/f7954c60cccb02dfe89bf23597b97755.jpg",
+          "raw_price": 1778,
+          "member_price": 1690,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7343"
+        }
+      ]
+    },
+    "7036": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7036,
+      "primary_name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "is_with_item_shared": false,
+      "brand": "SOAP & WATER",
+      "model_id": "M68",
+      "coordi_partners": [
+        {
+          "product_no": 7876,
+          "name": "SOAP & WATER Apoll 質感剪裁環保皮草外套 (單色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261104/2e19fa56463cba51ab21d247ccd7a354.jpg",
+          "raw_price": 6124,
+          "member_price": 5818,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7876"
+        }
+      ]
+    },
+    "7876": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7036_M68_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7036,
+      "primary_name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+      "is_with_item_shared": true,
+      "brand": "SOAP & WATER",
+      "model_id": "M68",
+      "coordi_partners": [
+        {
+          "product_no": 7036,
+          "name": "SOAP & WATER Albert 修身垂墜休閒長褲 (3色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/1ec51e8083a84b35208c383e55d601f3.jpg",
+          "raw_price": 2568,
+          "member_price": 2440,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7036"
+        }
+      ]
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T21:35:24+09:00",
+    "synced_at_kst": "2026-11-27T21:51:13+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3184,16 +3699,18 @@
       7944,
       7913
     ],
-    "best30_matched_video_count": 12,
+    "best30_matched_video_count": 17,
     "guard_padded_count": 0,
-    "main_items_count": 12,
-    "archive_items_count": 47,
-    "pdp_videos_total_count": 93,
+    "main_items_count": 17,
+    "archive_items_count": 53,
+    "pdp_videos_total_count": 105,
     "pdp_primary_nos": [
+      7036,
       7335,
       7381,
       7432,
       7519,
+      7697,
       7706,
       7714,
       7715,
@@ -3204,14 +3721,17 @@
       7799,
       7800,
       7802,
+      7814,
       7823,
       7846,
+      7852,
       7853,
       7865,
       7870,
       7872,
       7891,
       7893,
+      7896,
       7898,
       7907,
       7912,
@@ -3228,6 +3748,7 @@
       7941,
       7942,
       7950,
+      7952,
       7954,
       7962,
       7963,
@@ -3252,6 +3773,7 @@
       7590,
       7599,
       7680,
+      7695,
       7699,
       7704,
       7756,
@@ -3259,18 +3781,23 @@
       7796,
       7808,
       7819,
+      7824,
       7830,
       7831,
       7834,
       7841,
       7848,
+      7850,
       7851,
       7855,
       7862,
       7864,
+      7876,
       7877,
       7880,
       7885,
+      7889,
+      7895,
       7899,
       7904,
       7908,
