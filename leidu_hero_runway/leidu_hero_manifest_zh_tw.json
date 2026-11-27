@@ -1483,8 +1483,8 @@
           "name": "BASKET Salty 復古燈芯絨寬褲 (3色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/46c5938ab0b5fa9e06d5bf1b3407b84e.jpg",
-          "raw_price": 2123,
-          "member_price": 2017,
+          "raw_price": 2124,
+          "member_price": 2018,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7704"
@@ -1547,8 +1547,8 @@
           "name": "BASKET Salty 復古燈芯絨寬褲 (3色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/46c5938ab0b5fa9e06d5bf1b3407b84e.jpg",
-          "raw_price": 2123,
-          "member_price": 2017,
+          "raw_price": 2124,
+          "member_price": 2018,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7704"
@@ -3120,7 +3120,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T17:13:38+09:00",
+    "synced_at_kst": "2026-11-27T17:29:52+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
