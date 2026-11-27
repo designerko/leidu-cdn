@@ -43,7 +43,7 @@
       "product_no": 7962,
       "model_id": "M72",
       "brand": "UNDERSON",
-      "name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+      "name": "UNDERSON 歐莉層次疊穿T恤 (2色)",
       "price": "NT$1,087",
       "url": "/product/detail.html?product_no=7962",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
@@ -197,7 +197,7 @@
       "product_no": 7947,
       "model_id": "M25",
       "brand": "LAKE",
-      "name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "name": "LAKE Bay 褲款 (2色)",
       "price": "NT$1,531",
       "url": "/product/detail.html?product_no=7947",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795787672",
@@ -219,7 +219,7 @@
       "product_no": 7937,
       "model_id": "M27",
       "brand": "ATOFF",
-      "name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+      "name": "ATOFF 鄉村小屋T恤 (3色)",
       "price": "NT$1,259",
       "url": "/product/detail.html?product_no=7937",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
@@ -486,7 +486,7 @@
       "product_no": 7942,
       "model_id": "M31",
       "brand": "BASKET",
-      "name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+      "name": "BASKET Prep 長裙 (2色)",
       "price": "NT$1,185",
       "url": "/product/detail.html?product_no=7942",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7942_M31_dark_runway.mp4",
@@ -501,7 +501,7 @@
       "product_no": 7937,
       "model_id": "M27",
       "brand": "ATOFF",
-      "name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+      "name": "ATOFF 鄉村小屋T恤 (3色)",
       "price": "NT$1,259",
       "url": "/product/detail.html?product_no=7937",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
@@ -683,7 +683,7 @@
       "product_no": 7962,
       "model_id": "M72",
       "brand": "UNDERSON",
-      "name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+      "name": "UNDERSON 歐莉層次疊穿T恤 (2色)",
       "price": "NT$1,087",
       "url": "/product/detail.html?product_no=7962",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
@@ -734,7 +734,7 @@
       "product_no": 7950,
       "model_id": "M68",
       "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Mob 隨性寬鬆長袖T恤 (單色)",
+      "name": "SOAP & WATER Mob T恤 (1色)",
       "price": "NT$1,531",
       "url": "/product/detail.html?product_no=7950",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7950_M68_dark_runway.mp4?v=1795657380",
@@ -747,7 +747,7 @@
       "product_no": 7954,
       "model_id": "M68",
       "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Colli 修身直筒休閒長褲 (3色)",
+      "name": "SOAP & WATER 柯莉褲 (3色)",
       "price": "NT$1,580",
       "url": "/product/detail.html?product_no=7954",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7954_M68_dark_runway.mp4?v=1795657380",
@@ -978,7 +978,7 @@
       "product_no": 7947,
       "model_id": "M25",
       "brand": "LAKE",
-      "name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "name": "LAKE Bay 褲款 (2色)",
       "price": "NT$1,531",
       "url": "/product/detail.html?product_no=7947",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795787672",
@@ -2004,7 +2004,7 @@
         },
         {
           "product_no": 7942,
-          "name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+          "name": "BASKET Prep 長裙 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/120a555c2ff891404eb2f623caa6b2f3.jpg",
           "raw_price": 1185,
@@ -2018,7 +2018,7 @@
     "7942": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7942_M31_dark_runway.mp4",
       "primary_product_no": 7942,
-      "primary_name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+      "primary_name": "BASKET Prep 長裙 (2色)",
       "is_with_item_shared": false,
       "brand": "BASKET",
       "model_id": "M31",
@@ -2047,7 +2047,7 @@
         },
         {
           "product_no": 7946,
-          "name": "BASKET Winter 半高領柔膚長袖上衣 (4色)",
+          "name": "BASKET 冬季短袖T恤 (4色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/fe8036f3cd904ed5217f7e4e197a9bd5.jpg",
           "raw_price": 938,
@@ -2079,7 +2079,7 @@
         },
         {
           "product_no": 7942,
-          "name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+          "name": "BASKET Prep 長裙 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/120a555c2ff891404eb2f623caa6b2f3.jpg",
           "raw_price": 1185,
@@ -2102,7 +2102,7 @@
     "7946": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7942_M31_dark_runway.mp4",
       "primary_product_no": 7942,
-      "primary_name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+      "primary_name": "BASKET Prep 長裙 (2色)",
       "is_with_item_shared": true,
       "brand": "BASKET",
       "model_id": "M31",
@@ -2131,7 +2131,7 @@
         },
         {
           "product_no": 7942,
-          "name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+          "name": "BASKET Prep 長裙 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/120a555c2ff891404eb2f623caa6b2f3.jpg",
           "raw_price": 1185,
@@ -2145,7 +2145,7 @@
     "7943": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7942_M31_dark_runway.mp4",
       "primary_product_no": 7942,
-      "primary_name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+      "primary_name": "BASKET Prep 長裙 (2色)",
       "is_with_item_shared": true,
       "brand": "BASKET",
       "model_id": "M31",
@@ -2163,7 +2163,7 @@
         },
         {
           "product_no": 7946,
-          "name": "BASKET Winter 半高領柔膚長袖上衣 (4色)",
+          "name": "BASKET 冬季短袖T恤 (4色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/fe8036f3cd904ed5217f7e4e197a9bd5.jpg",
           "raw_price": 938,
@@ -2174,7 +2174,7 @@
         },
         {
           "product_no": 7942,
-          "name": "BASKET Prep 學院風百褶修身長裙 (2色)",
+          "name": "BASKET Prep 長裙 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/120a555c2ff891404eb2f623caa6b2f3.jpg",
           "raw_price": 1185,
@@ -2188,7 +2188,7 @@
     "7937": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "primary_product_no": 7937,
-      "primary_name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+      "primary_name": "ATOFF 鄉村小屋T恤 (3色)",
       "is_with_item_shared": false,
       "brand": "ATOFF",
       "model_id": "M27",
@@ -2220,14 +2220,14 @@
     "7945": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "primary_product_no": 7937,
-      "primary_name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+      "primary_name": "ATOFF 鄉村小屋T恤 (3色)",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
       "coordi_partners": [
         {
           "product_no": 7937,
-          "name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+          "name": "ATOFF 鄉村小屋T恤 (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/a2a8afe467d5ac2ccdcbbce389a5e8f2.jpg",
           "raw_price": 1259,
@@ -2252,7 +2252,7 @@
     "7944": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "primary_product_no": 7937,
-      "primary_name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+      "primary_name": "ATOFF 鄉村小屋T恤 (3色)",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
@@ -2270,7 +2270,7 @@
         },
         {
           "product_no": 7937,
-          "name": "ATOFF Cottage 溫柔圓領長袖上衣 (3色)",
+          "name": "ATOFF 鄉村小屋T恤 (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/a2a8afe467d5ac2ccdcbbce389a5e8f2.jpg",
           "raw_price": 1259,
@@ -2969,7 +2969,7 @@
     "7962": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7962,
-      "primary_name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+      "primary_name": "UNDERSON 歐莉層次疊穿T恤 (2色)",
       "is_with_item_shared": false,
       "brand": "UNDERSON",
       "model_id": "M72",
@@ -3001,14 +3001,14 @@
     "7961": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7962,
-      "primary_name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+      "primary_name": "UNDERSON 歐莉層次疊穿T恤 (2色)",
       "is_with_item_shared": true,
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
         {
           "product_no": 7962,
-          "name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
+          "name": "UNDERSON 歐莉層次疊穿T恤 (2色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/7f2b678ea1d24f4e74119fbde26a1d4f.jpg",
           "raw_price": 1087,
@@ -3126,7 +3126,7 @@
     "7950": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7950_M68_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7950,
-      "primary_name": "SOAP & WATER Mob 隨性寬鬆長袖T恤 (單色)",
+      "primary_name": "SOAP & WATER Mob T恤 (1色)",
       "is_with_item_shared": false,
       "brand": "SOAP & WATER",
       "model_id": "M68",
@@ -3147,14 +3147,14 @@
     "7680": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7950_M68_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7950,
-      "primary_name": "SOAP & WATER Mob 隨性寬鬆長袖T恤 (單色)",
+      "primary_name": "SOAP & WATER Mob T恤 (1色)",
       "is_with_item_shared": true,
       "brand": "SOAP & WATER",
       "model_id": "M68",
       "coordi_partners": [
         {
           "product_no": 7950,
-          "name": "SOAP & WATER Mob 隨性寬鬆長袖T恤 (單色)",
+          "name": "SOAP & WATER Mob T恤 (1色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261119/719b8566ce81c5f04210feeb272f7e3a.jpg",
           "raw_price": 1531,
@@ -3168,7 +3168,7 @@
     "7954": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7954_M68_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7954,
-      "primary_name": "SOAP & WATER Colli 修身直筒休閒長褲 (3色)",
+      "primary_name": "SOAP & WATER 柯莉褲 (3色)",
       "is_with_item_shared": false,
       "brand": "SOAP & WATER",
       "model_id": "M68",
@@ -3789,7 +3789,7 @@
     "7947": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795787672",
       "primary_product_no": 7947,
-      "primary_name": "LAKE Bay 修身垂墜休閒長褲 (2色)",
+      "primary_name": "LAKE Bay 褲款 (2色)",
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T02:09:11+09:00",
+    "synced_at_kst": "2026-11-28T02:25:05+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
