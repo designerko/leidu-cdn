@@ -205,15 +205,26 @@
       "best30_rank": 13
     },
     {
-      "product_no": 7952,
-      "model_id": "M46",
-      "brand": "BRUNCH",
-      "name": "브런치 루즈 맨투맨",
-      "price": "57,000원",
-      "url": "/product/detail.html?product_no=7952",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
-      "raw_price": 57000,
-      "best30_rank": 28
+      "product_no": 7978,
+      "model_id": "",
+      "brand": "LONDONFLAT",
+      "name": "런던플랏 스노우 플리스 집업",
+      "price": "137,000원",
+      "url": "/product/detail.html?product_no=7978",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7978__dark_runway.mp4?v=1795819686",
+      "raw_price": 137000,
+      "best30_rank": 22
+    },
+    {
+      "product_no": 7966,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "누즈 나미 벨벳 나시",
+      "price": "40,000원",
+      "url": "/product/detail.html?product_no=7966",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7966_M29_dark_runway.mp4?v=1795819686",
+      "raw_price": 40000,
+      "best30_rank": 25
     },
     {
       "product_no": 7937,
@@ -227,6 +238,28 @@
       "best30_rank": 14
     },
     {
+      "product_no": 7957,
+      "model_id": "M72",
+      "brand": "UNDERSON",
+      "name": "언더슨 튠 레이스 캐미 니트",
+      "price": "52,000원",
+      "url": "/product/detail.html?product_no=7957",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7957_M72_dark_runway.mp4?v=1795819686",
+      "raw_price": 52000,
+      "best30_rank": 27
+    },
+    {
+      "product_no": 7952,
+      "model_id": "M46",
+      "brand": "BRUNCH",
+      "name": "브런치 루즈 맨투맨",
+      "price": "57,000원",
+      "url": "/product/detail.html?product_no=7952",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7952_M46_dark_runway.mp4?v=1795783261",
+      "raw_price": 57000,
+      "best30_rank": 28
+    },
+    {
       "product_no": 7697,
       "model_id": "M27",
       "brand": "ATOFF",
@@ -236,6 +269,17 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
       "raw_price": 78000,
       "best30_rank": 20
+    },
+    {
+      "product_no": 7976,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "어토프 아벨 나그랑 코트",
+      "price": "206,000원",
+      "url": "/product/detail.html?product_no=7976",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7976_M27_dark_runway.mp4?v=1795819686",
+      "raw_price": 206000,
+      "best30_rank": 23
     }
   ],
   "banners": [
@@ -984,6 +1028,58 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795787672",
       "raw_price": 62000,
       "coordi_partner_nos": []
+    },
+    {
+      "product_no": 7978,
+      "model_id": "",
+      "brand": "LONDONFLAT",
+      "name": "런던플랏 스노우 플리스 집업",
+      "price": "137,000원",
+      "url": "/product/detail.html?product_no=7978",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7978__dark_runway.mp4?v=1795819686",
+      "raw_price": 137000,
+      "coordi_partner_nos": [
+        7980
+      ]
+    },
+    {
+      "product_no": 7976,
+      "model_id": "M27",
+      "brand": "ATOFF",
+      "name": "어토프 아벨 나그랑 코트",
+      "price": "206,000원",
+      "url": "/product/detail.html?product_no=7976",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7976_M27_dark_runway.mp4?v=1795819686",
+      "raw_price": 206000,
+      "coordi_partner_nos": [
+        7973
+      ]
+    },
+    {
+      "product_no": 7966,
+      "model_id": "M29",
+      "brand": "NUESE",
+      "name": "누즈 나미 벨벳 나시",
+      "price": "40,000원",
+      "url": "/product/detail.html?product_no=7966",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7966_M29_dark_runway.mp4?v=1795819686",
+      "raw_price": 40000,
+      "coordi_partner_nos": [
+        7816
+      ]
+    },
+    {
+      "product_no": 7957,
+      "model_id": "M72",
+      "brand": "UNDERSON",
+      "name": "언더슨 튠 레이스 캐미 니트",
+      "price": "52,000원",
+      "url": "/product/detail.html?product_no=7957",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7957_M72_dark_runway.mp4?v=1795819686",
+      "raw_price": 52000,
+      "coordi_partner_nos": [
+        7885
+      ]
     }
   ],
   "pdp_videos": {
@@ -3196,23 +3292,23 @@
       ]
     },
     "7885": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7930_M72_dark_runway.mp4?v=1795657380",
-      "primary_product_no": 7930,
-      "primary_name": "언더슨 울스 배색 나그랑",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7957_M72_dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7957,
+      "primary_name": "언더슨 튠 레이스 캐미 니트",
       "is_with_item_shared": true,
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
         {
-          "product_no": 7930,
-          "name": "언더슨 울스 배색 나그랑",
+          "product_no": 7957,
+          "name": "언더슨 튠 레이스 캐미 니트",
           "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261113/f2f61451e9ab4e61739b583c77372425.jpg",
-          "raw_price": 46000,
-          "member_price": 40480,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/297a7881256ddfd50d1b956da91a26c5.jpg",
+          "raw_price": 52000,
+          "member_price": 45760,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7930"
+          "url": "/product/detail.html?product_no=7957"
         }
       ]
     },
@@ -3757,23 +3853,23 @@
       ]
     },
     "7973": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7977_M27_dark_runway.mp4?v=1795784077",
-      "primary_product_no": 7977,
-      "primary_name": "어토프 올슨 퍼 자켓",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7976_M27_dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7976,
+      "primary_name": "어토프 아벨 나그랑 코트",
       "is_with_item_shared": true,
       "brand": "ATOFF",
       "model_id": "M27",
       "coordi_partners": [
         {
-          "product_no": 7977,
-          "name": "어토프 올슨 퍼 자켓",
+          "product_no": 7976,
+          "name": "어토프 아벨 나그랑 코트",
           "role_label": "OUTER",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261125/3f367357740ec307e2489dfc2a9c1260.jpg",
-          "raw_price": 190000,
-          "member_price": 167200,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/aef4ff74aebd4c4be45c7af3be43d81e.jpg",
+          "raw_price": 206000,
+          "member_price": 181280,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7977"
+          "url": "/product/detail.html?product_no=7976"
         }
       ]
     },
@@ -3794,10 +3890,136 @@
       "brand": "LAKE",
       "model_id": "M25",
       "coordi_partners": []
+    },
+    "7978": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7978__dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7978,
+      "primary_name": "런던플랏 스노우 플리스 집업",
+      "is_with_item_shared": false,
+      "brand": "LONDONFLAT",
+      "model_id": "",
+      "coordi_partners": [
+        {
+          "product_no": 7980,
+          "name": "런던플랏 스노우 플리스 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261126/82080c4a1530478bbe5ecb7e0a33d950.jpg",
+          "raw_price": 88000,
+          "member_price": 77440,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7980"
+        }
+      ]
+    },
+    "7980": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7978__dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7978,
+      "primary_name": "런던플랏 스노우 플리스 집업",
+      "is_with_item_shared": true,
+      "brand": "LONDONFLAT",
+      "model_id": "",
+      "coordi_partners": [
+        {
+          "product_no": 7978,
+          "name": "런던플랏 스노우 플리스 집업",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261126/929ffb1bf0db175a7f6154942c4bcf1a.jpg",
+          "raw_price": 137000,
+          "member_price": 120560,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7978"
+        }
+      ]
+    },
+    "7976": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7976_M27_dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7976,
+      "primary_name": "어토프 아벨 나그랑 코트",
+      "is_with_item_shared": false,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7973,
+          "name": "어토프 그랑 후리스 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/5136c0da38f1703bbb0014f53272b123.jpg",
+          "raw_price": 62000,
+          "member_price": 54560,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7973"
+        }
+      ]
+    },
+    "7966": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7966_M29_dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7966,
+      "primary_name": "누즈 나미 벨벳 나시",
+      "is_with_item_shared": false,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7816,
+          "name": "누즈 카펜터데님(기모)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/cf303f1462b929323961ab0f3fec9e80.jpg",
+          "raw_price": 99000,
+          "member_price": 87120,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7816"
+        }
+      ]
+    },
+    "7816": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7966_M29_dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7966,
+      "primary_name": "누즈 나미 벨벳 나시",
+      "is_with_item_shared": true,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7966,
+          "name": "누즈 나미 벨벳 나시",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/ddd8dd87b47fc4a18ad856ba6415f213.jpg",
+          "raw_price": 40000,
+          "member_price": 35200,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7966"
+        }
+      ]
+    },
+    "7957": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7957_M72_dark_runway.mp4?v=1795819686",
+      "primary_product_no": 7957,
+      "primary_name": "언더슨 튠 레이스 캐미 니트",
+      "is_with_item_shared": false,
+      "brand": "UNDERSON",
+      "model_id": "M72",
+      "coordi_partners": [
+        {
+          "product_no": 7885,
+          "name": "언더슨 챔프 스웻 팬츠",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/144d3ff4ac630e9b5bff5d2b929e3971.jpg",
+          "raw_price": 100000,
+          "member_price": 88000,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7885"
+        }
+      ]
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T07:43:32+09:00",
+    "synced_at_kst": "2026-11-28T07:48:11+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3861,11 +4083,11 @@
       7944,
       7913
     ],
-    "best30_matched_video_count": 21,
+    "best30_matched_video_count": 25,
     "guard_padded_count": 0,
-    "main_items_count": 21,
-    "archive_items_count": 57,
-    "pdp_videos_total_count": 110,
+    "main_items_count": 25,
+    "archive_items_count": 61,
+    "pdp_videos_total_count": 116,
     "pdp_primary_nos": [
       7036,
       7335,
@@ -3914,16 +4136,20 @@
       7950,
       7952,
       7954,
+      7957,
       7958,
       7962,
       7963,
       7964,
+      7966,
       7969,
       7971,
       7972,
       7974,
       7975,
-      7977
+      7976,
+      7977,
+      7978
     ],
     "pdp_with_item_shared_nos": [
       7115,
@@ -3946,6 +4172,7 @@
       7771,
       7796,
       7808,
+      7816,
       7819,
       7824,
       7830,
@@ -3978,7 +4205,8 @@
       7960,
       7961,
       7970,
-      7973
+      7973,
+      7980
     ]
   },
   "clip_timeline_ms": 8800,
