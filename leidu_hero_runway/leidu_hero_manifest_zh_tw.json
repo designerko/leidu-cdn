@@ -220,10 +220,10 @@
       "model_id": "M72",
       "brand": "UNDERSON",
       "name": "UNDERSON Wools 撞色插肩長袖上衣 (3色)",
-      "price": "NT$1,135",
+      "price": "NT$1,136",
       "url": "/product/detail.html?product_no=7930",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7930_M72_dark_runway.mp4?v=1795657380",
-      "raw_price": 1135,
+      "raw_price": 1136,
       "best30_rank": 23
     },
     {
@@ -253,10 +253,10 @@
       "model_id": "M46",
       "brand": "BRUNCH",
       "name": "BRUNCH Say 低調光澤絲絨寬褲 (2色)",
-      "price": "NT$1,876",
+      "price": "NT$1,877",
       "url": "/product/detail.html?product_no=7923",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7923_M46_dark_runway.mp4?v=1795657380",
-      "raw_price": 1876,
+      "raw_price": 1877,
       "best30_rank": 25
     },
     {
@@ -744,7 +744,8 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
       "raw_price": 1086,
       "coordi_partner_nos": [
-        7961
+        7961,
+        7880
       ]
     },
     {
@@ -813,10 +814,10 @@
       "model_id": "M72",
       "brand": "UNDERSON",
       "name": "UNDERSON Wools 撞色插肩長袖上衣 (3色)",
-      "price": "NT$1,135",
+      "price": "NT$1,136",
       "url": "/product/detail.html?product_no=7930",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7930_M72_dark_runway.mp4?v=1795657380",
-      "raw_price": 1135,
+      "raw_price": 1136,
       "coordi_partner_nos": [
         7885
       ]
@@ -850,10 +851,10 @@
       "model_id": "M46",
       "brand": "BRUNCH",
       "name": "BRUNCH Say 低調光澤絲絨寬褲 (2色)",
-      "price": "NT$1,876",
+      "price": "NT$1,877",
       "url": "/product/detail.html?product_no=7923",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7923_M46_dark_runway.mp4?v=1795657380",
-      "raw_price": 1876,
+      "raw_price": 1877,
       "coordi_partner_nos": []
     },
     {
@@ -1053,34 +1054,34 @@
       ]
     },
     "7880": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7928_M72_dark_runway.mp4",
-      "primary_product_no": 7928,
-      "primary_name": "UNDERSON 立體球球連帽針織外套 (2色)",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
+      "primary_product_no": 7962,
+      "primary_name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
       "is_with_item_shared": true,
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
         {
-          "product_no": 7928,
-          "name": "UNDERSON 立體球球連帽針織外套 (2色)",
+          "product_no": 7962,
+          "name": "UNDERSON Ollie 假兩件層次感長袖上衣 (2色)",
           "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261113/939916abbce6c8671a85685de892659f.jpg",
-          "raw_price": 3852,
-          "member_price": 3660,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/7f2b678ea1d24f4e74119fbde26a1d4f.jpg",
+          "raw_price": 1086,
+          "member_price": 1032,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7928"
+          "url": "/product/detail.html?product_no=7962"
         },
         {
-          "product_no": 7855,
-          "name": "UNDERSON 26 圈圈紗蓬鬆保暖圍巾 (4色)",
+          "product_no": 7961,
+          "name": "UNDERSON 安哥拉兔毛混紡捲邊毛帽 (2色)",
           "role_label": "ACC",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/057e3f74d763af85c63370ed3caaf08c.jpg",
-          "raw_price": 1012,
-          "member_price": 962,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/95ab7b2475f5b3f32310a29bf4411a9e.jpg",
+          "raw_price": 1135,
+          "member_price": 1079,
           "member_group_dc": "T",
           "discount_rate": 5,
-          "url": "/product/detail.html?product_no=7855"
+          "url": "/product/detail.html?product_no=7961"
         }
       ]
     },
@@ -1956,8 +1957,8 @@
           "name": "BASKET And 質感環保皮草背心 (單色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/23d63c6394acdd0294b4fd3c5dbdf1c1.jpg",
-          "raw_price": 5333,
-          "member_price": 5067,
+          "raw_price": 5334,
+          "member_price": 5068,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7943"
@@ -2040,8 +2041,8 @@
           "name": "BASKET And 質感環保皮草背心 (單色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/23d63c6394acdd0294b4fd3c5dbdf1c1.jpg",
-          "raw_price": 5333,
-          "member_price": 5067,
+          "raw_price": 5334,
+          "member_price": 5068,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7943"
@@ -2115,8 +2116,8 @@
           "name": "ATOFF Moen 插肩輕量保暖鋪棉外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/a22b001c17fbbc2a8cb93fc0dcc1644f.jpg",
-          "raw_price": 4296,
-          "member_price": 4082,
+          "raw_price": 4297,
+          "member_price": 4083,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7945"
@@ -2126,8 +2127,8 @@
           "name": "ATOFF 羊毛混紡保暖束口棉褲 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/4b82739c32f5c86414103eae16e7229f.jpg",
-          "raw_price": 1654,
-          "member_price": 1572,
+          "raw_price": 1655,
+          "member_price": 1573,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7944"
@@ -2158,8 +2159,8 @@
           "name": "ATOFF 羊毛混紡保暖束口棉褲 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/4b82739c32f5c86414103eae16e7229f.jpg",
-          "raw_price": 1654,
-          "member_price": 1572,
+          "raw_price": 1655,
+          "member_price": 1573,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7944"
@@ -2179,8 +2180,8 @@
           "name": "ATOFF Moen 插肩輕量保暖鋪棉外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261116/a22b001c17fbbc2a8cb93fc0dcc1644f.jpg",
-          "raw_price": 4296,
-          "member_price": 4082,
+          "raw_price": 4297,
+          "member_price": 4083,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7945"
@@ -2892,6 +2893,17 @@
       "model_id": "M72",
       "coordi_partners": [
         {
+          "product_no": 7880,
+          "name": "UNDERSON Pebble 氣質A字中長裙 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/1c4f3dd1d119ae8146a91741888f1032.jpg",
+          "raw_price": 2642,
+          "member_price": 2510,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7880"
+        },
+        {
           "product_no": 7961,
           "name": "UNDERSON 安哥拉兔毛混紡捲邊毛帽 (2色)",
           "role_label": "ACC",
@@ -2922,6 +2934,17 @@
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7962"
+        },
+        {
+          "product_no": 7880,
+          "name": "UNDERSON Pebble 氣質A字中長裙 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/1c4f3dd1d119ae8146a91741888f1032.jpg",
+          "raw_price": 2642,
+          "member_price": 2510,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7880"
         }
       ]
     },
@@ -3103,8 +3126,8 @@
           "name": "UNDERSON Wools 撞色插肩長袖上衣 (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261113/f2f61451e9ab4e61739b583c77372425.jpg",
-          "raw_price": 1135,
-          "member_price": 1079,
+          "raw_price": 1136,
+          "member_price": 1080,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7930"
@@ -3251,7 +3274,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T13:11:47+09:00",
+    "synced_at_kst": "2026-11-27T13:28:04+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
