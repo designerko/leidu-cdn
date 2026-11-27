@@ -744,7 +744,8 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
       "raw_price": 44000,
       "coordi_partner_nos": [
-        7961
+        7961,
+        7880
       ]
     },
     {
@@ -1053,34 +1054,34 @@
       ]
     },
     "7880": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7928_M72_dark_runway.mp4",
-      "primary_product_no": 7928,
-      "primary_name": "언더슨 방울 후드 니트",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
+      "primary_product_no": 7962,
+      "primary_name": "언더슨 올리 레이어드 티셔츠",
       "is_with_item_shared": true,
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
         {
-          "product_no": 7928,
-          "name": "언더슨 방울 후드 니트",
+          "product_no": 7962,
+          "name": "언더슨 올리 레이어드 티셔츠",
           "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261113/939916abbce6c8671a85685de892659f.jpg",
-          "raw_price": 156000,
-          "member_price": 137280,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/7f2b678ea1d24f4e74119fbde26a1d4f.jpg",
+          "raw_price": 44000,
+          "member_price": 38720,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7928"
+          "url": "/product/detail.html?product_no=7962"
         },
         {
-          "product_no": 7855,
-          "name": "언더슨 26 부클 머플러",
+          "product_no": 7961,
+          "name": "언더슨 앙고라 롤 비니",
           "role_label": "ACC",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/057e3f74d763af85c63370ed3caaf08c.jpg",
-          "raw_price": 41000,
-          "member_price": 36080,
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261120/95ab7b2475f5b3f32310a29bf4411a9e.jpg",
+          "raw_price": 46000,
+          "member_price": 40480,
           "member_group_dc": "T",
           "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7855"
+          "url": "/product/detail.html?product_no=7961"
         }
       ]
     },
@@ -2892,6 +2893,17 @@
       "model_id": "M72",
       "coordi_partners": [
         {
+          "product_no": 7880,
+          "name": "언더슨 페블 스커트",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/1c4f3dd1d119ae8146a91741888f1032.jpg",
+          "raw_price": 107000,
+          "member_price": 94160,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7880"
+        },
+        {
           "product_no": 7961,
           "name": "언더슨 앙고라 롤 비니",
           "role_label": "ACC",
@@ -2922,6 +2934,17 @@
           "member_group_dc": "T",
           "discount_rate": 12,
           "url": "/product/detail.html?product_no=7962"
+        },
+        {
+          "product_no": 7880,
+          "name": "언더슨 페블 스커트",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/1c4f3dd1d119ae8146a91741888f1032.jpg",
+          "raw_price": 107000,
+          "member_price": 94160,
+          "member_group_dc": "T",
+          "discount_rate": 12,
+          "url": "/product/detail.html?product_no=7880"
         }
       ]
     },
@@ -3251,7 +3274,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T13:11:47+09:00",
+    "synced_at_kst": "2026-11-27T13:28:04+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
