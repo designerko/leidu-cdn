@@ -863,7 +863,7 @@
       "product_no": 7852,
       "model_id": "M46",
       "brand": "BRUNCH",
-      "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "name": "BRUNCH Low 燈芯絨褲 (3色)",
       "price": "NT$1,803",
       "url": "/product/detail.html?product_no=7852",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
@@ -3357,7 +3357,7 @@
     "7852": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
       "primary_product_no": 7852,
-      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "primary_name": "BRUNCH Low 燈芯絨褲 (3色)",
       "is_with_item_shared": false,
       "brand": "BRUNCH",
       "model_id": "M46",
@@ -3400,7 +3400,7 @@
     "7889": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
       "primary_product_no": 7852,
-      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "primary_name": "BRUNCH Low 燈芯絨褲 (3色)",
       "is_with_item_shared": true,
       "brand": "BRUNCH",
       "model_id": "M46",
@@ -3429,7 +3429,7 @@
         },
         {
           "product_no": 7852,
-          "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+          "name": "BRUNCH Low 燈芯絨褲 (3色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
           "raw_price": 1803,
@@ -3443,7 +3443,7 @@
     "7824": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
       "primary_product_no": 7852,
-      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "primary_name": "BRUNCH Low 燈芯絨褲 (3色)",
       "is_with_item_shared": true,
       "brand": "BRUNCH",
       "model_id": "M46",
@@ -3472,7 +3472,7 @@
         },
         {
           "product_no": 7852,
-          "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+          "name": "BRUNCH Low 燈芯絨褲 (3色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
           "raw_price": 1803,
@@ -3486,7 +3486,7 @@
     "7850": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7852_M46_dark_runway.mp4?v=1795783261",
       "primary_product_no": 7852,
-      "primary_name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+      "primary_name": "BRUNCH Low 燈芯絨褲 (3色)",
       "is_with_item_shared": true,
       "brand": "BRUNCH",
       "model_id": "M46",
@@ -3515,7 +3515,7 @@
         },
         {
           "product_no": 7852,
-          "name": "BRUNCH Low 修身垂墜燈芯絨直筒長褲 (3色)",
+          "name": "BRUNCH Low 燈芯絨褲 (3色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261030/3a6e8e2cc847cbdcfd88857506d59c02.jpg",
           "raw_price": 1803,
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T01:04:39+09:00",
+    "synced_at_kst": "2026-11-28T01:20:53+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
