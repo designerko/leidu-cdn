@@ -3202,7 +3202,7 @@
       "coordi_partners": [
         {
           "product_no": 7971,
-          "name": "누즈 빌런 팬츠",
+          "name": "누즈 빌런 팬츠(기모)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/a1b1cce7da33b53ce273ab7570f1157b.jpg",
           "raw_price": 89000,
@@ -3251,7 +3251,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T11:48:17+09:00",
+    "synced_at_kst": "2026-11-27T12:03:31+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
