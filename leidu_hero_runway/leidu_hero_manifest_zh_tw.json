@@ -1913,8 +1913,8 @@
           "name": "BASKET French 法式柔膚高領上衣 (5色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/7546637f1e677f87b2c32b7ceb7382e5.jpg",
-          "raw_price": 987,
-          "member_price": 938,
+          "raw_price": 988,
+          "member_price": 939,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7834"
@@ -2360,8 +2360,8 @@
           "name": "BASKET Mock 絲絨光澤垂墜寬褲 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/a83893a56bd005d5385fbd5a93bc2d46.jpg",
-          "raw_price": 1777,
-          "member_price": 1689,
+          "raw_price": 1778,
+          "member_price": 1690,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7831"
@@ -2413,8 +2413,8 @@
           "name": "BASKET Mock 絲絨光澤垂墜寬褲 (2色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/a83893a56bd005d5385fbd5a93bc2d46.jpg",
-          "raw_price": 1777,
-          "member_price": 1689,
+          "raw_price": 1778,
+          "member_price": 1690,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7831"
@@ -2836,8 +2836,8 @@
           "name": "BASKET Toy 泰迪絨保暖夾克外套 (2色)",
           "role_label": "OUTER",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/79cfed9dd9ef28a90c537333040a318e.jpg",
-          "raw_price": 2049,
-          "member_price": 1947,
+          "raw_price": 2050,
+          "member_price": 1948,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7830"
@@ -3251,7 +3251,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T12:03:31+09:00",
+    "synced_at_kst": "2026-11-27T12:23:47+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
