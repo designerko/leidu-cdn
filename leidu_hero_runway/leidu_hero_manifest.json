@@ -983,9 +983,7 @@
       "url": "/product/detail.html?product_no=7947",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795787672",
       "raw_price": 62000,
-      "coordi_partner_nos": [
-        7303
-      ]
+      "coordi_partner_nos": []
     }
   ],
   "pdp_videos": {
@@ -3795,44 +3793,11 @@
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
-      "coordi_partners": [
-        {
-          "product_no": 7303,
-          "name": "레이크 베이 나시",
-          "role_label": "INNER · TOP",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/5ac03c30a411fafa7f3a6c2d1513d361.jpg",
-          "raw_price": 24000,
-          "member_price": 21120,
-          "member_group_dc": "T",
-          "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7303"
-        }
-      ]
-    },
-    "7303": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7947_M25_dark_runway.mp4?v=1795787672",
-      "primary_product_no": 7947,
-      "primary_name": "레이크 베이 팬츠",
-      "is_with_item_shared": true,
-      "brand": "LAKE",
-      "model_id": "M25",
-      "coordi_partners": [
-        {
-          "product_no": 7947,
-          "name": "레이크 베이 팬츠",
-          "role_label": "BOTTOM",
-          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261117/d165402f4140318506432260f8fdee16.jpg",
-          "raw_price": 62000,
-          "member_price": 54560,
-          "member_group_dc": "T",
-          "discount_rate": 12,
-          "url": "/product/detail.html?product_no=7947"
-        }
-      ]
+      "coordi_partners": []
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T22:55:53+09:00",
+    "synced_at_kst": "2026-11-27T22:58:38+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3900,7 +3865,7 @@
     "guard_padded_count": 0,
     "main_items_count": 21,
     "archive_items_count": 57,
-    "pdp_videos_total_count": 111,
+    "pdp_videos_total_count": 110,
     "pdp_primary_nos": [
       7036,
       7335,
@@ -3962,7 +3927,6 @@
     ],
     "pdp_with_item_shared_nos": [
       7115,
-      7303,
       7341,
       7342,
       7343,
