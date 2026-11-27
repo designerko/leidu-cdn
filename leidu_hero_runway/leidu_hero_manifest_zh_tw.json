@@ -2648,8 +2648,8 @@
           "name": "LEIDU 自訂款 質感羅紋中筒襪 (4色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/9b13cb53f8c3546c8f7e1117fd9f3bb2.png",
-          "raw_price": 61,
-          "member_price": 58,
+          "raw_price": 62,
+          "member_price": 59,
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7424"
@@ -3274,7 +3274,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T14:31:46+09:00",
+    "synced_at_kst": "2026-11-27T14:47:43+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7972,
