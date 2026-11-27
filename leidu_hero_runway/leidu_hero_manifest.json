@@ -90,7 +90,7 @@
       "name": "언더슨 로프트 앙고라 니트",
       "price": "78,000원",
       "url": "/product/detail.html?product_no=7958",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795787376",
       "raw_price": 78000,
       "best30_rank": 7
     },
@@ -944,7 +944,7 @@
       "name": "언더슨 로프트 앙고라 니트",
       "price": "78,000원",
       "url": "/product/detail.html?product_no=7958",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795787376",
       "raw_price": 78000,
       "coordi_partner_nos": [
         7880
@@ -1127,7 +1127,7 @@
       ]
     },
     "7880": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795787376",
       "primary_product_no": 7958,
       "primary_name": "언더슨 로프트 앙고라 니트",
       "is_with_item_shared": true,
@@ -3717,7 +3717,7 @@
       ]
     },
     "7958": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795784077",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7958_M72_dark_runway.mp4?v=1795787376",
       "primary_product_no": 7958,
       "primary_name": "언더슨 로프트 앙고라 니트",
       "is_with_item_shared": false,
@@ -3832,7 +3832,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T22:39:45+09:00",
+    "synced_at_kst": "2026-11-27T22:49:41+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
