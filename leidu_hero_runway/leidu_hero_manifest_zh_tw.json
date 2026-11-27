@@ -21,7 +21,7 @@
       "product_no": 7912,
       "model_id": "M31",
       "brand": "BASKET",
-      "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+      "name": "BASKET 葉子大學T (3色)",
       "price": "NT$1,383",
       "url": "/product/detail.html?product_no=7912",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7912_M31_dark_runway.mp4",
@@ -528,7 +528,7 @@
       "product_no": 7912,
       "model_id": "M31",
       "brand": "BASKET",
-      "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+      "name": "BASKET 葉子大學T (3色)",
       "price": "NT$1,383",
       "url": "/product/detail.html?product_no=7912",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7912_M31_dark_runway.mp4",
@@ -2326,7 +2326,7 @@
     "7912": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7912_M31_dark_runway.mp4",
       "primary_product_no": 7912,
-      "primary_name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+      "primary_name": "BASKET 葉子大學T (3色)",
       "is_with_item_shared": false,
       "brand": "BASKET",
       "model_id": "M31",
@@ -2358,14 +2358,14 @@
     "7908": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7912_M31_dark_runway.mp4",
       "primary_product_no": 7912,
-      "primary_name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+      "primary_name": "BASKET 葉子大學T (3色)",
       "is_with_item_shared": true,
       "brand": "BASKET",
       "model_id": "M31",
       "coordi_partners": [
         {
           "product_no": 7912,
-          "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+          "name": "BASKET 葉子大學T (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/1ff6a0eaa551fc6ac7837c9b2579c2a1.jpg",
           "raw_price": 1383,
@@ -2390,14 +2390,14 @@
     "7910": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7912_M31_dark_runway.mp4",
       "primary_product_no": 7912,
-      "primary_name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+      "primary_name": "BASKET 葉子大學T (3色)",
       "is_with_item_shared": true,
       "brand": "BASKET",
       "model_id": "M31",
       "coordi_partners": [
         {
           "product_no": 7912,
-          "name": "BASKET Leaf 休閒圓領長袖大學T (3色)",
+          "name": "BASKET 葉子大學T (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/1ff6a0eaa551fc6ac7837c9b2579c2a1.jpg",
           "raw_price": 1383,
@@ -3545,7 +3545,7 @@
       "coordi_partners": [
         {
           "product_no": 7895,
-          "name": "NUESE Fog 修飾蓋袖長袖上衣 (3色)",
+          "name": "NUESE 迷霧蓋袖T恤 (3色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261109/c817baf6033a50b915725a04cadef658.jpg",
           "raw_price": 741,
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T01:36:58+09:00",
+    "synced_at_kst": "2026-11-28T01:52:45+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
