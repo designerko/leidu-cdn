@@ -264,7 +264,7 @@
       "product_no": 7772,
       "model_id": "M57",
       "brand": "LONDONFLAT",
-      "name": "LONDONFLAT 附圍巾手工純羊毛長版大衣 (2色)",
+      "name": "LONDONFLAT 圍巾手工大衣 (2色)",
       "price": "NT$9,087",
       "url": "/product/런던플랏-머플러-핸드메이드-코트-2colors/7772/category/42/display/1/",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7772_M57_dark_runway.mp4",
@@ -990,7 +990,7 @@
     "7772": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7772_M57_dark_runway.mp4",
       "primary_product_no": 7772,
-      "primary_name": "LONDONFLAT 附圍巾手工純羊毛長版大衣 (2色)",
+      "primary_name": "LONDONFLAT 圍巾手工大衣 (2色)",
       "is_with_item_shared": false,
       "brand": "LONDONFLAT",
       "model_id": "M57",
@@ -1187,7 +1187,7 @@
       "coordi_partners": [
         {
           "product_no": 7756,
-          "name": "BRUNCH Hush 修身直筒丹寧牛仔褲 (單色)",
+          "name": "BRUNCH Hush 丹寧褲 (1色)",
           "role_label": "BOTTOM",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/576a13b9d3d2569feaa1b2081cd398d3.jpg",
           "raw_price": 1655,
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T00:00:23+09:00",
+    "synced_at_kst": "2026-11-28T00:16:27+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
