@@ -131,7 +131,7 @@
       "product_no": 7814,
       "model_id": "M29",
       "brand": "NUESE",
-      "name": "NUESE 多釦裝飾長袖上衣 (4色)",
+      "name": "NUESE 多鈕釦T恤 (4色)",
       "price": "NT$889",
       "url": "/product/detail.html?product_no=7814",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
@@ -556,7 +556,7 @@
       "product_no": 7800,
       "model_id": "M68",
       "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Chili 隨性圓領長袖T恤 (單色)",
+      "name": "SOAP & WATER 辣椒T恤 (1色)",
       "price": "NT$1,383",
       "url": "/product/detail.html?product_no=7800",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7800_M68_dark_runway.mp4",
@@ -697,7 +697,7 @@
       "product_no": 7799,
       "model_id": "M68",
       "brand": "SOAP & WATER",
-      "name": "SOAP & WATER Life 極簡棉質長袖上衣 (單色)",
+      "name": "SOAP & WATER 生活T恤 (1色)",
       "price": "NT$1,580",
       "url": "/product/detail.html?product_no=7799",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7799_M68_dark_runway.mp4?v=1795657380",
@@ -902,7 +902,7 @@
       "product_no": 7814,
       "model_id": "M29",
       "brand": "NUESE",
-      "name": "NUESE 多釦裝飾長袖上衣 (4色)",
+      "name": "NUESE 多鈕釦T恤 (4色)",
       "price": "NT$889",
       "url": "/product/detail.html?product_no=7814",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
@@ -2518,7 +2518,7 @@
     "7800": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7800_M68_dark_runway.mp4",
       "primary_product_no": 7800,
-      "primary_name": "SOAP & WATER Chili 隨性圓領長袖T恤 (單色)",
+      "primary_name": "SOAP & WATER 辣椒T恤 (1色)",
       "is_with_item_shared": false,
       "brand": "SOAP & WATER",
       "model_id": "M68",
@@ -2550,7 +2550,7 @@
     "7877": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7800_M68_dark_runway.mp4",
       "primary_product_no": 7800,
-      "primary_name": "SOAP & WATER Chili 隨性圓領長袖T恤 (單色)",
+      "primary_name": "SOAP & WATER 辣椒T恤 (1色)",
       "is_with_item_shared": true,
       "brand": "SOAP & WATER",
       "model_id": "M68",
@@ -2568,7 +2568,7 @@
         },
         {
           "product_no": 7800,
-          "name": "SOAP & WATER Chili 隨性圓領長袖T恤 (單色)",
+          "name": "SOAP & WATER 辣椒T恤 (1色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/dd539b9755aedd2ca667a421894cfe60.jpg",
           "raw_price": 1383,
@@ -2582,14 +2582,14 @@
     "7848": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7800_M68_dark_runway.mp4",
       "primary_product_no": 7800,
-      "primary_name": "SOAP & WATER Chili 隨性圓領長袖T恤 (單色)",
+      "primary_name": "SOAP & WATER 辣椒T恤 (1色)",
       "is_with_item_shared": true,
       "brand": "SOAP & WATER",
       "model_id": "M68",
       "coordi_partners": [
         {
           "product_no": 7800,
-          "name": "SOAP & WATER Chili 隨性圓領長袖T恤 (單色)",
+          "name": "SOAP & WATER 辣椒T恤 (1色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/dd539b9755aedd2ca667a421894cfe60.jpg",
           "raw_price": 1383,
@@ -3033,7 +3033,7 @@
     "7799": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7799_M68_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7799,
-      "primary_name": "SOAP & WATER Life 極簡棉質長袖上衣 (單色)",
+      "primary_name": "SOAP & WATER 生活T恤 (1色)",
       "is_with_item_shared": false,
       "brand": "SOAP & WATER",
       "model_id": "M68",
@@ -3580,7 +3580,7 @@
     "7814": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
       "primary_product_no": 7814,
-      "primary_name": "NUESE 多釦裝飾長袖上衣 (4色)",
+      "primary_name": "NUESE 多鈕釦T恤 (4色)",
       "is_with_item_shared": false,
       "brand": "NUESE",
       "model_id": "M29",
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T00:32:36+09:00",
+    "synced_at_kst": "2026-11-28T00:48:36+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
