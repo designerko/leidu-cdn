@@ -515,7 +515,7 @@
       "product_no": 7891,
       "model_id": "M72",
       "brand": "UNDERSON",
-      "name": "UNDERSON 26 極簡純羊毛披肩圍巾 (3色)",
+      "name": "UNDERSON 26 披肩圍巾 (3色)",
       "price": "NT$988",
       "url": "/product/detail.html?product_no=7891",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7891_M72_dark_runway.mp4",
@@ -841,7 +841,7 @@
       "product_no": 7969,
       "model_id": "M25",
       "brand": "LAKE",
-      "name": "LAKE Alle 立體修身顯瘦長褲 (4色)",
+      "name": "LAKE 艾蕾褲款 (4色)",
       "price": "NT$1,284",
       "url": "/product/detail.html?product_no=7969",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795661484",
@@ -2286,7 +2286,7 @@
     "7891": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7891_M72_dark_runway.mp4",
       "primary_product_no": 7891,
-      "primary_name": "UNDERSON 26 極簡純羊毛披肩圍巾 (3色)",
+      "primary_name": "UNDERSON 26 披肩圍巾 (3色)",
       "is_with_item_shared": false,
       "brand": "UNDERSON",
       "model_id": "M72",
@@ -2307,14 +2307,14 @@
     "7599": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7891_M72_dark_runway.mp4",
       "primary_product_no": 7891,
-      "primary_name": "UNDERSON 26 極簡純羊毛披肩圍巾 (3色)",
+      "primary_name": "UNDERSON 26 披肩圍巾 (3色)",
       "is_with_item_shared": true,
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
         {
           "product_no": 7891,
-          "name": "UNDERSON 26 極簡純羊毛披肩圍巾 (3色)",
+          "name": "UNDERSON 26 披肩圍巾 (3色)",
           "role_label": "ACC",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261106/66ca743de4de133c4310dd861a928e09.jpg",
           "raw_price": 988,
@@ -2876,7 +2876,7 @@
       "coordi_partners": [
         {
           "product_no": 7913,
-          "name": "BASKET Soft 純羊毛柔軟保暖圍巾 (5色)",
+          "name": "BASKET 索芙羊毛圍巾 (5色)",
           "role_label": "ACC",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261111/3e2d0c94a56c684829dfa4e6a8e57cae.jpg",
           "raw_price": 617,
@@ -3288,7 +3288,7 @@
       "coordi_partners": [
         {
           "product_no": 7970,
-          "name": "NUESE Grace 柔滑修身長袖T恤 (5色)",
+          "name": "NUESE Grace T恤 (5色)",
           "role_label": "INNER · TOP",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/248cc8c74ce73eba424d63c4a54be5e9.jpg",
           "raw_price": 1259,
@@ -3341,7 +3341,7 @@
     "7969": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7969_M25_dark_runway.mp4?v=1795661484",
       "primary_product_no": 7969,
-      "primary_name": "LAKE Alle 立體修身顯瘦長褲 (4色)",
+      "primary_name": "LAKE 艾蕾褲款 (4色)",
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
@@ -3832,7 +3832,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T22:23:56+09:00",
+    "synced_at_kst": "2026-11-27T22:39:45+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
