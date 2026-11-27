@@ -153,7 +153,7 @@
       "product_no": 7714,
       "model_id": "M25",
       "brand": "LAKE",
-      "name": "LAKE Chao 經典百搭親膚長袖T恤 (10色)",
+      "name": "LAKE Ciao T恤 (10色)",
       "price": "NT$1,136",
       "url": "/product/detail.html?product_no=7714",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
@@ -661,7 +661,7 @@
       "product_no": 7714,
       "model_id": "M25",
       "brand": "LAKE",
-      "name": "LAKE Chao 經典百搭親膚長袖T恤 (10色)",
+      "name": "LAKE Ciao T恤 (10色)",
       "price": "NT$1,136",
       "url": "/product/detail.html?product_no=7714",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
@@ -2951,7 +2951,7 @@
     "7714": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7714,
-      "primary_name": "LAKE Chao 經典百搭親膚長袖T恤 (10色)",
+      "primary_name": "LAKE Ciao T恤 (10色)",
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
@@ -3797,7 +3797,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T23:28:01+09:00",
+    "synced_at_kst": "2026-11-27T23:44:26+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
