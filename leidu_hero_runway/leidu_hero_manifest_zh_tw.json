@@ -137,17 +137,6 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7937_M27_dark_runway.mp4",
       "raw_price": 1259,
       "best30_rank": 14
-    },
-    {
-      "product_no": 7964,
-      "model_id": "M25",
-      "brand": "LAKE",
-      "name": "LAKE Holly 俐落高腰直筒休閒褲 (3色)",
-      "price": "NT$1,482",
-      "url": "/product/detail.html?product_no=7964",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7964_M25_dark_runway.mp4?v=1795657380",
-      "raw_price": 1482,
-      "best30_rank": 30
     }
   ],
   "banners": [
@@ -3131,7 +3120,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-27T15:02:00+09:00",
+    "synced_at_kst": "2026-11-27T15:04:07+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -3162,8 +3151,7 @@
       7961,
       7957,
       7952,
-      7323,
-      7964
+      7323
     ],
     "weekly_best30_product_nos": [
       7962,
@@ -3196,9 +3184,9 @@
       7944,
       7913
     ],
-    "best30_matched_video_count": 13,
+    "best30_matched_video_count": 12,
     "guard_padded_count": 0,
-    "main_items_count": 13,
+    "main_items_count": 12,
     "archive_items_count": 47,
     "pdp_videos_total_count": 93,
     "pdp_primary_nos": [
