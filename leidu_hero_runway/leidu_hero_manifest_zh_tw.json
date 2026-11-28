@@ -51,15 +51,15 @@
       "best30_rank": 6
     },
     {
-      "product_no": 7917,
+      "product_no": 7974,
       "model_id": "M27",
       "brand": "ATOFF",
-      "name": "ATOFF Mark 經典羊毛中長版大衣 (2色)",
-      "price": "NT$4,149",
-      "url": "/product/어토프-마크-하프-코트-2colors/7917/category/54/display/1/",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7917_M27_dark_runway.mp4",
-      "raw_price": 4149,
-      "best30_rank": 3
+      "name": "ATOFF 復古絲絨百搭窄版領巾 (單色)",
+      "price": "NT$988",
+      "url": "/product/detail.html?product_no=7974",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7974_M27_dark_runway.mp4?v=1795657380",
+      "raw_price": 988,
+      "best30_rank": 1
     },
     {
       "product_no": 7823,
@@ -95,15 +95,15 @@
       "best30_rank": 7
     },
     {
-      "product_no": 7972,
+      "product_no": 7917,
       "model_id": "M27",
       "brand": "ATOFF",
-      "name": "ATOFF Bell 親膚柔暖高領打底上衣 (2色)",
-      "price": "NT$988",
-      "url": "/product/detail.html?product_no=7972",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7972_M27_dark_runway.mp4?v=1795657380",
-      "raw_price": 988,
-      "best30_rank": 5
+      "name": "ATOFF Mark 經典羊毛中長版大衣 (2色)",
+      "price": "NT$4,149",
+      "url": "/product/어토프-마크-하프-코트-2colors/7917/category/54/display/1/",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7917_M27_dark_runway.mp4",
+      "raw_price": 4149,
+      "best30_rank": 3
     },
     {
       "product_no": 7715,
@@ -139,15 +139,15 @@
       "best30_rank": 18
     },
     {
-      "product_no": 7974,
+      "product_no": 7972,
       "model_id": "M27",
       "brand": "ATOFF",
-      "name": "ATOFF 復古絲絨百搭窄版領巾 (單色)",
+      "name": "ATOFF Bell 親膚柔暖高領打底上衣 (2色)",
       "price": "NT$988",
-      "url": "/product/detail.html?product_no=7974",
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7974_M27_dark_runway.mp4?v=1795657380",
+      "url": "/product/detail.html?product_no=7972",
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7972_M27_dark_runway.mp4?v=1795657380",
       "raw_price": 988,
-      "best30_rank": 11
+      "best30_rank": 5
     },
     {
       "product_no": 7714,
@@ -444,7 +444,9 @@
       "url": "/product/detail.html?product_no=7715",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7715_M25_dark_runway_v2.mp4",
       "raw_price": 1926,
-      "coordi_partner_nos": []
+      "coordi_partner_nos": [
+        7714
+      ]
     },
     {
       "product_no": 7717,
@@ -565,7 +567,8 @@
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7891_M72_dark_runway.mp4",
       "raw_price": 988,
       "coordi_partner_nos": [
-        7599
+        7599,
+        7928
       ]
     },
     {
@@ -593,7 +596,8 @@
       "raw_price": 1926,
       "coordi_partner_nos": [
         7831,
-        7383
+        7383,
+        7871
       ]
     },
     {
@@ -710,7 +714,9 @@
       "url": "/product/detail.html?product_no=7714",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
       "raw_price": 1136,
-      "coordi_partner_nos": []
+      "coordi_partner_nos": [
+        7793
+      ]
     },
     {
       "product_no": 7974,
@@ -721,7 +727,9 @@
       "url": "/product/detail.html?product_no=7974",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7974_M27_dark_runway.mp4?v=1795657380",
       "raw_price": 988,
-      "coordi_partner_nos": []
+      "coordi_partner_nos": [
+        7975
+      ]
     },
     {
       "product_no": 7962,
@@ -868,7 +876,9 @@
       "url": "/product/detail.html?product_no=7975",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7975_M27_dark_runway.mp4?v=1795657380",
       "raw_price": 864,
-      "coordi_partner_nos": []
+      "coordi_partner_nos": [
+        7974
+      ]
     },
     {
       "product_no": 7802,
@@ -951,7 +961,9 @@
       "url": "/product/detail.html?product_no=7814",
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
       "raw_price": 889,
-      "coordi_partner_nos": []
+      "coordi_partner_nos": [
+        7813
+      ]
     },
     {
       "product_no": 7697,
@@ -1736,7 +1748,40 @@
       "is_with_item_shared": false,
       "brand": "LAKE",
       "model_id": "M25",
-      "coordi_partners": []
+      "coordi_partners": [
+        {
+          "product_no": 7714,
+          "name": "LAKE Ciao T恤 (10色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/422a8c5d8fa4716313750086a79ec94f.jpg",
+          "raw_price": 1136,
+          "member_price": 1080,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7714"
+        }
+      ]
+    },
+    "7714": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
+      "primary_product_no": 7714,
+      "primary_name": "LAKE Ciao T恤 (10色)",
+      "is_with_item_shared": false,
+      "brand": "LAKE",
+      "model_id": "M25",
+      "coordi_partners": [
+        {
+          "product_no": 7793,
+          "name": "LAKE 波比褲款 (5色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/17010b19b68d04a26f8ca7f75d08f758.jpg",
+          "raw_price": 1259,
+          "member_price": 1197,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7793"
+        }
+      ]
     },
     "7717": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7717_M68_dark_runway.mp4",
@@ -2395,6 +2440,17 @@
           "member_group_dc": "T",
           "discount_rate": 5,
           "url": "/product/detail.html?product_no=7599"
+        },
+        {
+          "product_no": 7928,
+          "name": "UNDERSON 立體球球連帽針織外套 (2色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261113/939916abbce6c8671a85685de892659f.jpg",
+          "raw_price": 3852,
+          "member_price": 3660,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7928"
         }
       ]
     },
@@ -2406,6 +2462,17 @@
       "brand": "UNDERSON",
       "model_id": "M72",
       "coordi_partners": [
+        {
+          "product_no": 7928,
+          "name": "UNDERSON 立體球球連帽針織外套 (2色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261113/939916abbce6c8671a85685de892659f.jpg",
+          "raw_price": 3852,
+          "member_price": 3660,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7928"
+        },
         {
           "product_no": 7891,
           "name": "UNDERSON 26 披肩圍巾 (3色)",
@@ -2524,6 +2591,17 @@
       "model_id": "M31",
       "coordi_partners": [
         {
+          "product_no": 7871,
+          "name": "BASKET Martin 質感剪裁中長版大衣 (3色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261102/52df590335b10a329baee975a64b83ff.jpg",
+          "raw_price": 7062,
+          "member_price": 6709,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7871"
+        },
+        {
           "product_no": 7383,
           "name": "BASKET Deep V領慵懶針織毛衣 (4色)",
           "role_label": "INNER · TOP",
@@ -2556,6 +2634,17 @@
       "model_id": "M31",
       "coordi_partners": [
         {
+          "product_no": 7871,
+          "name": "BASKET Martin 質感剪裁中長版大衣 (3色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261102/52df590335b10a329baee975a64b83ff.jpg",
+          "raw_price": 7062,
+          "member_price": 6709,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7871"
+        },
+        {
           "product_no": 7383,
           "name": "BASKET Deep V領慵懶針織毛衣 (4色)",
           "role_label": "INNER · TOP",
@@ -2587,6 +2676,60 @@
       "brand": "BASKET",
       "model_id": "M31",
       "coordi_partners": [
+        {
+          "product_no": 7871,
+          "name": "BASKET Martin 質感剪裁中長版大衣 (3色)",
+          "role_label": "OUTER",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261102/52df590335b10a329baee975a64b83ff.jpg",
+          "raw_price": 7062,
+          "member_price": 6709,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7871"
+        },
+        {
+          "product_no": 7831,
+          "name": "BASKET Mock 絲絨光澤垂墜寬褲 (2色)",
+          "role_label": "BOTTOM",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/a83893a56bd005d5385fbd5a93bc2d46.jpg",
+          "raw_price": 1778,
+          "member_price": 1690,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7831"
+        },
+        {
+          "product_no": 7865,
+          "name": "BASKET 溫柔大尺寸披肩圍巾 (2色)",
+          "role_label": "ACC",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261102/4de811cfac952209c492f368be60f23e.jpg",
+          "raw_price": 1926,
+          "member_price": 1830,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7865"
+        }
+      ]
+    },
+    "7871": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7865_M31_dark_runway.mp4",
+      "primary_product_no": 7865,
+      "primary_name": "BASKET 溫柔大尺寸披肩圍巾 (2色)",
+      "is_with_item_shared": true,
+      "brand": "BASKET",
+      "model_id": "M31",
+      "coordi_partners": [
+        {
+          "product_no": 7383,
+          "name": "BASKET Deep V領慵懶針織毛衣 (4色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261023/e48b8d0862f172a8d68b5c860701fc2c.jpg",
+          "raw_price": 1926,
+          "member_price": 1830,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7383"
+        },
         {
           "product_no": 7831,
           "name": "BASKET Mock 絲絨光澤垂墜寬褲 (2色)",
@@ -2824,7 +2967,7 @@
         {
           "product_no": 7424,
           "name": "LEIDU 自訂款 質感羅紋中筒襪 (4色)",
-          "role_label": "INNER · TOP",
+          "role_label": "ACC",
           "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/9b13cb53f8c3546c8f7e1117fd9f3bb2.png",
           "raw_price": 62,
           "member_price": 59,
@@ -3044,14 +3187,26 @@
         }
       ]
     },
-    "7714": {
+    "7793": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7714_M25_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7714,
       "primary_name": "LAKE Ciao T恤 (10色)",
-      "is_with_item_shared": false,
+      "is_with_item_shared": true,
       "brand": "LAKE",
       "model_id": "M25",
-      "coordi_partners": []
+      "coordi_partners": [
+        {
+          "product_no": 7714,
+          "name": "LAKE Ciao T恤 (10色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261024/422a8c5d8fa4716313750086a79ec94f.jpg",
+          "raw_price": 1136,
+          "member_price": 1080,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7714"
+        }
+      ]
     },
     "7974": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7974_M27_dark_runway.mp4?v=1795657380",
@@ -3060,7 +3215,40 @@
       "is_with_item_shared": false,
       "brand": "ATOFF",
       "model_id": "M27",
-      "coordi_partners": []
+      "coordi_partners": [
+        {
+          "product_no": 7975,
+          "name": "ATOFF Tory 內刷毛保暖圓領T恤 (4色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/a187a920b87818e412090a039a800c63.jpg",
+          "raw_price": 864,
+          "member_price": 821,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7975"
+        }
+      ]
+    },
+    "7975": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7975_M27_dark_runway.mp4?v=1795657380",
+      "primary_product_no": 7975,
+      "primary_name": "ATOFF Tory 內刷毛保暖圓領T恤 (4色)",
+      "is_with_item_shared": false,
+      "brand": "ATOFF",
+      "model_id": "M27",
+      "coordi_partners": [
+        {
+          "product_no": 7974,
+          "name": "ATOFF 復古絲絨百搭窄版領巾 (單色)",
+          "role_label": "ACC",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261124/385f68af390a210b5294cceb019ec55b.jpg",
+          "raw_price": 988,
+          "member_price": 939,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7974"
+        }
+      ]
     },
     "7962": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7962_M72_dark_runway.mp4?v=1795657380",
@@ -3414,15 +3602,6 @@
         }
       ]
     },
-    "7975": {
-      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7975_M27_dark_runway.mp4?v=1795657380",
-      "primary_product_no": 7975,
-      "primary_name": "ATOFF Tory 內刷毛保暖圓領T恤 (4色)",
-      "is_with_item_shared": false,
-      "brand": "ATOFF",
-      "model_id": "M27",
-      "coordi_partners": []
-    },
     "7802": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7802_M68_dark_runway.mp4?v=1795657380",
       "primary_product_no": 7802,
@@ -3680,7 +3859,40 @@
       "is_with_item_shared": false,
       "brand": "NUESE",
       "model_id": "M29",
-      "coordi_partners": []
+      "coordi_partners": [
+        {
+          "product_no": 7813,
+          "name": "NUESE 毛絨拼接保暖圍巾 (2色)",
+          "role_label": "ACC",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/dda67ca0033944bb023417ad7843278c.jpg",
+          "raw_price": 1210,
+          "member_price": 1150,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7813"
+        }
+      ]
+    },
+    "7813": {
+      "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7814_M29_dark_runway.mp4?v=1795783714",
+      "primary_product_no": 7814,
+      "primary_name": "NUESE 多鈕釦T恤 (4色)",
+      "is_with_item_shared": true,
+      "brand": "NUESE",
+      "model_id": "M29",
+      "coordi_partners": [
+        {
+          "product_no": 7814,
+          "name": "NUESE 多鈕釦T恤 (4色)",
+          "role_label": "INNER · TOP",
+          "thumb_url": "https://ecimg.cafe24img.com/pg1152b38411026028/leidu1/web/product/medium/20261026/43aba76c96361b1464fc99384a9e41b5.jpg",
+          "raw_price": 889,
+          "member_price": 845,
+          "member_group_dc": "T",
+          "discount_rate": 5,
+          "url": "/product/detail.html?product_no=7814"
+        }
+      ]
     },
     "7697": {
       "video_url": "https://designerko.github.io/leidu-cdn/leidu_hero_runway/7697_M27_dark_runway.mp4?v=1795783714",
@@ -4019,7 +4231,7 @@
     }
   },
   "best30_sync_meta": {
-    "synced_at_kst": "2026-11-28T13:52:16+09:00",
+    "synced_at_kst": "2026-11-28T14:08:22+09:00",
     "source": "smartstore_best30_via_cafe24_category_54",
     "best30_product_nos": [
       7975,
@@ -4087,7 +4299,7 @@
     "guard_padded_count": 0,
     "main_items_count": 25,
     "archive_items_count": 61,
-    "pdp_videos_total_count": 116,
+    "pdp_videos_total_count": 119,
     "pdp_primary_nos": [
       7036,
       7335,
@@ -4170,8 +4382,10 @@
       7704,
       7756,
       7771,
+      7793,
       7796,
       7808,
+      7813,
       7816,
       7819,
       7824,
@@ -4185,6 +4399,7 @@
       7855,
       7862,
       7864,
+      7871,
       7876,
       7877,
       7880,
