@@ -287,19 +287,19 @@
       "tag": "NEW MAGAZINE",
       "title": "LEIDU WEEKLY 07 · 冬日行走的線條",
       "cta": "閱讀品牌雜誌 →",
-      "url": "/shop7/magazine.html?issue=2026-11-23"
+      "url": "/magazine.html?issue=2026-11-23"
     },
     {
       "tag": "GLOBAL MEMBERSHIP",
       "title": "免費註冊即享 5% 常態折扣 · VIP 最高享 10% 無上限優惠 · 整合 4,000+ 真實買家評價",
       "cta": "查看會員專屬禮遇 →",
-      "url": "/shop7/benefit.html"
+      "url": "/benefit.html"
     },
     {
-      "tag": "SF EXPRESS DIRECT",
-      "title": "韓國首爾直營出貨 · 任選 2 件即享順豐速運免運直郵台灣／香港",
+      "tag": "FREE SHIPPING",
+      "title": "韓國官方直營出貨 · 單筆滿 NT$2,500 即享免運直郵（支援宅配／台灣全家超商取貨）",
       "cta": "立即選購現貨單品 →",
-      "url": "/shop7/product/list.html?cate_no=147"
+      "url": "/product/list.html?cate_no=147"
     }
   ],
   "min_main_columns_guard": 12,
